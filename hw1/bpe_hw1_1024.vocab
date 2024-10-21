@@ -1,0 +1,1024 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[e][ ] -> [e ] 256
+[s][ ] -> [s ] 257
+[t][h] -> [th] 258
+[t][ ] -> [t ] 259
+[i][n] -> [in] 260
+[ ][a] -> [ a] 261
+[d][ ] -> [d ] 262
+[e][r] -> [er] 263
+[y][ ] -> [y ] 264
+[ ][th] -> [ th] 265
+[e][n] -> [en] 266
+[a][n] -> [an] 267
+[o][n] -> [on] 268
+[o][r] -> [or] 269
+[in][g] -> [ing] 270
+[.][ ] -> [. ] 271
+[a][r] -> [ar] 272
+[o][u] -> [ou] 273
+[,][ ] -> [, ] 274
+[o][f] -> [of] 275
+[t][i] -> [ti] 276
+[r][e] -> [re] 277
+[ th][e ] -> [ the ] 278
+[a][l] -> [al] 279
+[o][ ] -> [o ] 280
+[ing][ ] -> [ing ] 281
+[i][s ] -> [is ] 282
+[ a][n] -> [ an] 283
+[e][s ] -> [es ] 284
+[l][y ] -> [ly ] 285
+[s][t] -> [st] 286
+[i][l] -> [il] 287
+[c][h] -> [ch] 288
+[ a][ ] -> [ a ] 289
+[o][m] -> [om] 290
+[i][t] -> [it] 291
+[a][ ] -> [a ] 292
+[a][t ] -> [at ] 293
+[of][ ] -> [of ] 294
+[er][ ] -> [er ] 295
+[e][l] -> [el] 296
+[i][t ] -> [it ] 297
+[ an][d ] -> [ and ] 298
+[e][d ] -> [ed ] 299
+[t][o ] -> [to ] 300
+[a][t] -> [at] 301
+['][s ] -> ['s ] 302
+[th][e ] -> [the ] 303
+[e][s] -> [es] 304
+[l][i] -> [li] 305
+[o][v] -> [ov] 306
+[i][c] -> [ic] 307
+[on][ ] -> [on ] 308
+[a][c] -> [ac] 309
+[i][s] -> [is] 310
+[m][a] -> [ma] 311
+[u][n] -> [un] 312
+[l][ ] -> [l ] 313
+[l][e ] -> [le ] 314
+[f][or] -> [for] 315
+[m][ ] -> [m ] 316
+[g][h] -> [gh] 317
+[r][a] -> [ra] 318
+[an][d ] -> [and ] 319
+[w][h] -> [wh] 320
+[e][v] -> [ev] 321
+[o][w] -> [ow] 322
+[a][s] -> [as] 323
+[u][r] -> [ur] 324
+[al][ ] -> [al ] 325
+[f][il] -> [fil] 326
+[an][ ] -> [an ] 327
+[d][i] -> [di] 328
+[e][c] -> [ec] 329
+[h][a] -> [ha] 330
+[i][th] -> [ith] 331
+[t][o] -> [to] 332
+[in][ ] -> [in ] 333
+[r][i] -> [ri] 334
+[b][u] -> [bu] 335
+[en][ ] -> [en ] 336
+[v][e ] -> [ve ] 337
+[m][ov] -> [mov] 338
+[w][ith] -> [with] 339
+[o][s] -> [os] 340
+[c][om] -> [com] 341
+[th][at ] -> [that ] 342
+[s][h] -> [sh] 343
+[a][b] -> [ab] 344
+[mov][i] -> [movi] 345
+[i][r] -> [ir] 346
+[o][l] -> [ol] 347
+[s][i] -> [si] 348
+[u][l] -> [ul] 349
+[e][d] -> [ed] 350
+[e][m] -> [em] 351
+[t][er] -> [ter] 352
+[k][ ] -> [k ] 353
+[o][o] -> [oo] 354
+[y][ou] -> [you] 355
+[p][l] -> [pl] 356
+[e][x] -> [ex] 357
+[bu][t ] -> [but ] 358
+[s][u] -> [su] 359
+[ou][t ] -> [out ] 360
+[b][e] -> [be] 361
+[it][s ] -> [its ] 362
+[movi][e ] -> [movie ] 363
+[ti][on ] -> [tion ] 364
+[p][r] -> [pr] 365
+[t][s ] -> [ts ] 366
+[k][e ] -> [ke ] 367
+[c][e ] -> [ce ] 368
+[fil][m ] -> [film ] 369
+[.][ the ] -> [. the ] 370
+[-][ ] -> [- ] 371
+[n][o] -> [no] 372
+[s][e] -> [se] 373
+[or][ ] -> [or ] 374
+[d][e] -> [de] 375
+[u][s] -> [us] 376
+[a][m] -> [am] 377
+[on][e ] -> [one ] 378
+[of][ the ] -> [of the ] 379
+[.][ a ] -> [. a ] 380
+[p][er] -> [per] 381
+[en][t ] -> [ent ] 382
+[ti][c] -> [tic] 383
+[s][p] -> [sp] 384
+[s][c] -> [sc] 385
+[t][a] -> [ta] 386
+[c][on] -> [con] 387
+[a][s ] -> [as ] 388
+[e][ar] -> [ear] 389
+[p][ ] -> [p ] 390
+[it ]['s ] -> [it 's ] 391
+[ a][s ] -> [ as ] 392
+[ch][ ] -> [ch ] 393
+[you][ ] -> [you ] 394
+[es][s ] -> [ess ] 395
+[ th][at ] -> [ that ] 396
+[.][.] -> [..] 397
+[u][m] -> [um] 398
+[q][u] -> [qu] 399
+[ti][on] -> [tion] 400
+[l][e] -> [le] 401
+[ th][is ] -> [ this ] 402
+[w][or] -> [wor] 403
+[r][b] -> [rb] 404
+[b][e ] -> [be ] 405
+[with][ ] -> [with ] 406
+[o][p] -> [op] 407
+[ou][gh] -> [ough] 408
+[a][g] -> [ag] 409
+[er][e ] -> [ere ] 410
+[f][r] -> [fr] 411
+[er][s ] -> [ers ] 412
+[n]['] -> [n'] 413
+[ti][m] -> [tim] 414
+[n'][t ] -> [n't ] 415
+[en][t] -> [ent] 416
+[p][re] -> [pre] 417
+[o][c] -> [oc] 418
+[f][ ] -> [f ] 419
+[,][ and ] -> [, and ] 420
+[an][d] -> [and] 421
+[or][e ] -> [ore ] 422
+[al][ly ] -> [ally ] 423
+[, ][but ] -> [, but ] 424
+[e][ly ] -> [ely ] 425
+[ou][s ] -> [ous ] 426
+[i][ ] -> [i ] 427
+[a][d] -> [ad] 428
+[a][y ] -> [ay ] 429
+[l][d ] -> [ld ] 430
+[s][om] -> [som] 431
+[ch][ar] -> [char] 432
+[m][an] -> [man] 433
+[ab][le ] -> [able ] 434
+[t][r] -> [tr] 435
+[st][or] -> [stor] 436
+[c][t] -> [ct] 437
+[n][ ] -> [n ] 438
+[rb][- ] -> [rb- ] 439
+[ a][l] -> [ al] 440
+[i][m] -> [im] 441
+[g][ ] -> [g ] 442
+[e ][. ] -> [e . ] 443
+[li][ke ] -> [like ] 444
+[no][t ] -> [not ] 445
+[for][ ] -> [for ] 446
+['][ ] -> [' ] 447
+[ha][s ] -> [has ] 448
+[l][a] -> [la] 449
+[n][e] -> [ne] 450
+[m][ore ] -> [more ] 451
+[v][i] -> [vi] 452
+[f][e] -> [fe] 453
+[g][e] -> [ge] 454
+[ar][e ] -> [are ] 455
+[o][d] -> [od] 456
+[fil][m] -> [film] 457
+[es][t ] -> [est ] 458
+[ur][e ] -> [ure ] 459
+[ an][ ] -> [ an ] 460
+[b][y ] -> [by ] 461
+[o][th] -> [oth] 462
+[fr][om] -> [from] 463
+[i][gh] -> [igh] 464
+[ic][ ] -> [ic ] 465
+[s][o ] -> [so ] 466
+[it][y ] -> [ity ] 467
+[i][d] -> [id] 468
+[os][t ] -> [ost ] 469
+[ow][ ] -> [ow ] 470
+[in][ the ] -> [in the ] 471
+[ou][ld ] -> [ould ] 472
+[al][l] -> [all] 473
+[tic][ ] -> [tic ] 474
+[d][o] -> [do] 475
+[v][er] -> [ver] 476
+[ha][ve ] -> [have ] 477
+[k][s ] -> [ks ] 478
+[r][e ] -> [re ] 479
+[c][l] -> [cl] 480
+[a][p] -> [ap] 481
+[t][t] -> [tt] 482
+[f][u] -> [fu] 483
+[ma][k] -> [mak] 484
+[h][is ] -> [his ] 485
+[..][. ] -> [... ] 486
+[p][o] -> [po] 487
+[`][ ] -> [` ] 488
+[f][un] -> [fun] 489
+[ a][b] -> [ ab] 490
+[oo][d ] -> [ood ] 491
+[el][l] -> [ell] 492
+[en][ce ] -> [ence ] 493
+[g][u] -> [gu] 494
+[st][r] -> [str] 495
+[a][d ] -> [ad ] 496
+[e][p] -> [ep] 497
+[m][ost ] -> [most ] 498
+[di][re] -> [dire] 499
+[o][b] -> [ob] 500
+[y][ and ] -> [y and ] 501
+[-][l] -> [-l] 502
+[it][t] -> [itt] 503
+[th][ing ] -> [thing ] 504
+[ti][ve ] -> [tive ] 505
+[is ][a ] -> [is a ] 506
+[f][f] -> [ff] 507
+[th][e] -> [the] 508
+[-][r] -> [-r] 509
+[w][e] -> [we] 510
+[p][ar] -> [par] 511
+[w][il] -> [wil] 512
+[ev][er ] -> [ever ] 513
+[char][ac] -> [charac] 514
+[a][y] -> [ay] 515
+[ar][ ] -> [ar ] 516
+[d][er] -> [der] 517
+[b][r] -> [br] 518
+[fu][l ] -> [ful ] 519
+[e ][of ] -> [e of ] 520
+[ough][ ] -> [ough ] 521
+[ou][n] -> [oun] 522
+[f][ul] -> [ful] 523
+[s ][. ] -> [s . ] 524
+[an][t ] -> [ant ] 525
+[to][ the ] -> [to the ] 526
+[ou][r] -> [our] 527
+[us][t ] -> [ust ] 528
+[u][t] -> [ut] 529
+[d][e ] -> [de ] 530
+[stor][y ] -> [story ] 531
+[m][in] -> [min] 532
+[b][l] -> [bl] 533
+[,][ the ] -> [, the ] 534
+[l][y] -> [ly] 535
+[en][d] -> [end] 536
+[g][r] -> [gr] 537
+[wh][at ] -> [what ] 538
+[m][ar] -> [mar] 539
+[in][t] -> [int] 540
+[at][e ] -> [ate ] 541
+[ev][er] -> [ever] 542
+[ a][t ] -> [ at ] 543
+[el][ ] -> [el ] 544
+[w][ ] -> [w ] 545
+[m][u] -> [mu] 546
+[ th][e] -> [ the] 547
+[ir][ ] -> [ir ] 548
+[-][- ] -> [-- ] 549
+[o][t ] -> [ot ] 550
+[t][ra] -> [tra] 551
+[as][t ] -> [ast ] 552
+[dire][ct] -> [direct] 553
+[a][tion ] -> [ation ] 554
+[p][e] -> [pe] 555
+[s][el] -> [sel] 556
+[y ][, ] -> [y , ] 557
+[ ab][out ] -> [ about ] 558
+[of][ a ] -> [of a ] 559
+[d][ra] -> [dra] 560
+[ing ][, ] -> [ing , ] 561
+[s][en] -> [sen] 562
+[p][h] -> [ph] 563
+[to][o ] -> [too ] 564
+[g][i] -> [gi] 565
+[a][u] -> [au] 566
+[s][t ] -> [st ] 567
+[c][es ] -> [ces ] 568
+[d][is] -> [dis] 569
+[j][ust ] -> [just ] 570
+[do][es ] -> [does ] 571
+[s ][, ] -> [s , ] 572
+[f][in] -> [fin] 573
+[i][f ] -> [if ] 574
+[e ][, ] -> [e , ] 575
+[th][is ] -> [this ] 576
+[-r][rb- ] -> [-rrb- ] 577
+[il][l] -> [ill] 578
+[com][ed] -> [comed] 579
+[som][e] -> [some] 580
+[ an][d] -> [ and] 581
+[t][er ] -> [ter ] 582
+[. ][it 's ] -> [. it 's ] 583
+[es][s] -> [ess] 584
+[fun][n] -> [funn] 585
+[h][um] -> [hum] 586
+[charac][ter] -> [character] 587
+[th][ ] -> [th ] 588
+[b][le ] -> [ble ] 589
+[w][ay ] -> [way ] 590
+[w][r] -> [wr] 591
+[ow][n ] -> [own ] 592
+[wh][o ] -> [who ] 593
+[i][g] -> [ig] 594
+[j][o] -> [jo] 595
+[al][l ] -> [all ] 596
+[ov][er] -> [over] 597
+[c][re] -> [cre] 598
+[u][p ] -> [up ] 599
+[v][es ] -> [ves ] 600
+[e][t ] -> [et ] 601
+[f][l] -> [fl] 602
+[from][ ] -> [from ] 603
+[per][for] -> [perfor] 604
+[-l][rb- ] -> [-lrb- ] 605
+[m][e] -> [me] 606
+[l][ess ] -> [less ] 607
+[s ][and ] -> [s and ] 608
+[s][a] -> [sa] 609
+[p][a] -> [pa] 610
+[t][e] -> [te] 611
+[ta][in] -> [tain] 612
+[s][ur] -> [sur] 613
+[ing][ly ] -> [ingly ] 614
+[u][c] -> [uc] 615
+[ar][y ] -> [ary ] 616
+[to ][be ] -> [to be ] 617
+[.][ this ] -> [. this ] 618
+[f][a] -> [fa] 619
+[ar][d ] -> [ard ] 620
+[g][ood ] -> [good ] 621
+[wil][l ] -> [will ] 622
+[of][f] -> [off] 623
+[t][w] -> [tw] 624
+[i][al ] -> [ial ] 625
+[g][e ] -> [ge ] 626
+[sc][re] -> [scre] 627
+[l][ov] -> [lov] 628
+[s][er] -> [ser] 629
+[g][re] -> [gre] 630
+[som][e ] -> [some ] 631
+[w][at] -> [wat] 632
+[ing ][. ] -> [ing . ] 633
+[os][e ] -> [ose ] 634
+[n][o ] -> [no ] 635
+[c][an ] -> [can ] 636
+[c][in] -> [cin] 637
+[perfor][man] -> [performan] 638
+[h][i] -> [hi] 639
+[g][o] -> [go] 640
+[d][es] -> [des] 641
+[p][i] -> [pi] 642
+[g][en] -> [gen] 643
+[ev][en ] -> [even ] 644
+[ec][t ] -> [ect ] 645
+[it][e ] -> [ite ] 646
+[ing][ and ] -> [ing and ] 647
+[b][i] -> [bi] 648
+[en][ts ] -> [ents ] 649
+[.][ th] -> [. th] 650
+[e][t] -> [et] 651
+[l][oo] -> [loo] 652
+[in][e ] -> [ine ] 653
+[li][f] -> [lif] 654
+[t][al] -> [tal] 655
+[igh][t ] -> [ight ] 656
+[gh][t ] -> [ght ] 657
+[ou][s] -> [ous] 658
+[e][as] -> [eas] 659
+[you][r] -> [your] 660
+[o][g] -> [og] 661
+[ a][d] -> [ ad] 662
+[on][g ] -> [ong ] 663
+[ac][k] -> [ack] 664
+[t][u] -> [tu] 665
+[l][itt] -> [litt] 666
+[p][or] -> [por] 667
+[oth][er ] -> [other ] 668
+[comed][y ] -> [comedy ] 669
+[m][at] -> [mat] 670
+[su][b] -> [sub] 671
+[`][` ] -> [`` ] 672
+[ma][ke ] -> [make ] 673
+['][' ] -> ['' ] 674
+[direct][or ] -> [director ] 675
+[ing][ the ] -> [ing the ] 676
+[ab][out ] -> [about ] 677
+[tim][e ] -> [time ] 678
+[il][e ] -> [ile ] 679
+[is][h] -> [ish] 680
+[litt][le ] -> [little ] 681
+[mu][ch ] -> [much ] 682
+[in][ter] -> [inter] 683
+[ a][r] -> [ ar] 684
+[h][ear] -> [hear] 685
+[th][r] -> [thr] 686
+[is][e ] -> [ise ] 687
+[d][el] -> [del] 688
+[com][p] -> [comp] 689
+[ a][c] -> [ ac] 690
+[s ][to ] -> [s to ] 691
+[p][p] -> [pp] 692
+[h][e ] -> [he ] 693
+[you ]['] -> [you '] 694
+[at][ed ] -> [ated ] 695
+[ a][m] -> [ am] 696
+[b][ec] -> [bec] 697
+[t][ur] -> [tur] 698
+[i][ous ] -> [ious ] 699
+[with][ a ] -> [with a ] 700
+[wh][i] -> [whi] 701
+[k][ing ] -> [king ] 702
+[on][ the ] -> [on the ] 703
+[h][ol] -> [hol] 704
+[-][-] -> [--] 705
+[li][c] -> [lic] 706
+[s ][of ] -> [s of ] 707
+[f][re] -> [fre] 708
+[s][e ] -> [se ] 709
+[t][ri] -> [tri] 710
+[ic][al ] -> [ical ] 711
+[c][r] -> [cr] 712
+[i][ma] -> [ima] 713
+[y][ear] -> [year] 714
+[an][ce ] -> [ance ] 715
+[en][ter] -> [enter] 716
+[i][es ] -> [ies ] 717
+[n][ess ] -> [ness ] 718
+[ ][. ] -> [ . ] 719
+[c][ar] -> [car] 720
+[your][ ] -> [your ] 721
+[w][e ] -> [we ] 722
+[ac][k ] -> [ack ] 723
+[h][e] -> [he] 724
+[it ][is ] -> [it is ] 725
+[in][ a ] -> [in a ] 726
+[b][o] -> [bo] 727
+[on][ly ] -> [only ] 728
+[e][-] -> [e-] 729
+[si][on ] -> [sion ] 730
+[for][ the ] -> [for the ] 731
+[d][r] -> [dr] 732
+[fe][el] -> [feel] 733
+[ag][e ] -> [age ] 734
+[l][l ] -> [ll ] 735
+[ a][ct] -> [ act] 736
+[ver][y ] -> [very ] 737
+[mak][es ] -> [makes ] 738
+[s][o] -> [so] 739
+[t][ed ] -> [ted ] 740
+[s][ti] -> [sti] 741
+[n][ever ] -> [never ] 742
+[u][s ] -> [us ] 743
+[w][ould ] -> [would ] 744
+[i][f] -> [if] 745
+[m][a ] -> [ma ] 746
+[f][am] -> [fam] 747
+[c][ol] -> [col] 748
+[d][s ] -> [ds ] 749
+[t][en] -> [ten] 750
+[pr][ov] -> [prov] 751
+[f][ir] -> [fir] 752
+[t][ure ] -> [ture ] 753
+[el][l ] -> [ell ] 754
+[re][s] -> [res] 755
+[character][s ] -> [characters ] 756
+[i][z] -> [iz] 757
+[ a][re ] -> [ are ] 758
+[pre][s] -> [pres] 759
+[t][ly ] -> [tly ] 760
+[at][ing ] -> [ating ] 761
+[y ][. ] -> [y . ] 762
+[u][d] -> [ud] 763
+[wor][k ] -> [work ] 764
+[e][st] -> [est] 765
+[.][ an ] -> [. an ] 766
+[a][tion] -> [ation] 767
+[v][is] -> [vis] 768
+[p][ic] -> [pic] 769
+[ful][ly ] -> [fully ] 770
+[r][om] -> [rom] 771
+[b][ad ] -> [bad ] 772
+[sp][ec] -> [spec] 773
+[enter][tain] -> [entertain] 774
+[does ][n't ] -> [does n't ] 775
+[w][as ] -> [was ] 776
+[en][ough ] -> [enough ] 777
+[b][er] -> [ber] 778
+[wh][ile ] -> [while ] 779
+[ge][t ] -> [get ] 780
+[w][ar] -> [war] 781
+[th][er ] -> [ther ] 782
+[f][ac] -> [fac] 783
+[to][ a ] -> [to a ] 784
+[t][ing ] -> [ting ] 785
+[m][ent ] -> [ment ] 786
+[ma][y ] -> [may ] 787
+[a][st] -> [ast] 788
+[ay][s ] -> [ays ] 789
+[u][p] -> [up] 790
+[k][e] -> [ke] 791
+[b][est ] -> [best ] 792
+[at][ely ] -> [ately ] 793
+[a][tive ] -> [ative ] 794
+[movi][es ] -> [movies ] 795
+[k][in] -> [kin] 796
+[p][os] -> [pos] 797
+[ri][p] -> [rip] 798
+[m][e ] -> [me ] 799
+[m][i] -> [mi] 800
+[st][er] -> [ster] 801
+[d][o ] -> [do ] 802
+[ex][c] -> [exc] 803
+[un][der] -> [under] 804
+[ th][r] -> [ thr] 805
+[ al][l] -> [ all] 806
+[re][d ] -> [red ] 807
+[our][ ] -> [our ] 808
+[ab][ly ] -> [ably ] 809
+[ere ]['s ] -> [ere 's ] 810
+[en][d ] -> [end ] 811
+[us][e ] -> [use ] 812
+[c][ould ] -> [could ] 813
+[rb][-] -> [rb-] 814
+[ th][an ] -> [ than ] 815
+[ne][w ] -> [new ] 816
+[th][an ] -> [than ] 817
+[sh][ ] -> [sh ] 818
+[lov][e ] -> [love ] 819
+[lif][e ] -> [life ] 820
+[an][g] -> [ang] 821
+[ing][s ] -> [ings ] 822
+[en][g] -> [eng] 823
+[ma][de ] -> [made ] 824
+[whi][ch ] -> [which ] 825
+[m][an ] -> [man ] 826
+[i][ly ] -> [ily ] 827
+[si][m] -> [sim] 828
+[p][u] -> [pu] 829
+[ing][ a ] -> [ing a ] 830
+[wr][it] -> [writ] 831
+[in][c] -> [inc] 832
+[i][d ] -> [id ] 833
+[funn][y ] -> [funny ] 834
+[be][t] -> [bet] 835
+[wat][ch] -> [watch] 836
+[es ][, ] -> [es , ] 837
+[la][u] -> [lau] 838
+[oo][d] -> [ood] 839
+[d][ic] -> [dic] 840
+[c][ap] -> [cap] 841
+[t][re] -> [tre] 842
+[be][en ] -> [been ] 843
+[ing ][to ] -> [ing to ] 844
+[on][g] -> [ong] 845
+[ al][l ] -> [ all ] 846
+[r][o] -> [ro] 847
+[s][k] -> [sk] 848
+[s ][the ] -> [s the ] 849
+[re][a] -> [rea] 850
+[. the ][film ] -> [. the film ] 851
+[with][ the ] -> [with the ] 852
+[b][el] -> [bel] 853
+[st][e] -> [ste] 854
+[ed][ and ] -> [ed and ] 855
+[film][mak] -> [filmmak] 856
+[,][ a ] -> [, a ] 857
+[b][y] -> [by] 858
+[one ][of the ] -> [one of the ] 859
+[min][ut] -> [minut] 860
+[ima][g] -> [imag] 861
+[k][n] -> [kn] 862
+[performan][ces ] -> [performances ] 863
+[like ][a ] -> [like a ] 864
+[ed ][by ] -> [ed by ] 865
+[er ][. ] -> [er . ] 866
+[es][e ] -> [ese ] 867
+[pl][ot ] -> [plot ] 868
+[as][h] -> [ash] 869
+[k][es ] -> [kes ] 870
+[h][ow ] -> [how ] 871
+[m][is] -> [mis] 872
+[p][ec] -> [pec] 873
+[f][an] -> [fan] 874
+[b][oth] -> [both] 875
+[vi][e] -> [vie] 876
+[with][out ] -> [without ] 877
+[m][o] -> [mo] 878
+[p][ow] -> [pow] 879
+[h][ar] -> [har] 880
+[ ][, ] -> [ , ] 881
+[d][oc] -> [doc] 882
+[lau][gh] -> [laugh] 883
+[ed ][, ] -> [ed , ] 884
+[ the][ir ] -> [ their ] 885
+[t ][, ] -> [t , ] 886
+[re][c] -> [rec] 887
+[re][ally ] -> [really ] 888
+[d][u] -> [du] 889
+[pr][ob] -> [prob] 890
+[re][al] -> [real] 891
+[ever][y ] -> [every ] 892
+[pr][o] -> [pro] 893
+[b][ar] -> [bar] 894
+[h][er ] -> [her ] 895
+[f][i] -> [fi] 896
+[sh][ould ] -> [should ] 897
+[sel][f] -> [self] 898
+[sc][en] -> [scen] 899
+[sur][pr] -> [surpr] 900
+[pe][op] -> [peop] 901
+[peop][le ] -> [people ] 902
+[man][y ] -> [many ] 903
+[se][em] -> [seem] 904
+[sc][rip] -> [scrip] 905
+[sel][f ] -> [self ] 906
+[t ][of ] -> [t of ] 907
+[oun][d ] -> [ound ] 908
+[st][y] -> [sty] 909
+[some][thing ] -> [something ] 910
+[s][ch] -> [sch] 911
+[pl][eas] -> [pleas] 912
+[ti][v] -> [tiv] 913
+[tr][u] -> [tru] 914
+[c][er] -> [cer] 915
+[s][y] -> [sy] 916
+[s][l] -> [sl] 917
+[ma][tic ] -> [matic ] 918
+[sp][ir] -> [spir] 919
+[d][ec] -> [dec] 920
+[doc][um] -> [docum] 921
+[no][thing ] -> [nothing ] 922
+[es ][. ] -> [es . ] 923
+[si][on] -> [sion] 924
+[se][e ] -> [see ] 925
+[er][ic] -> [eric] 926
+[f][as] -> [fas] 927
+[m][em] -> [mem] 928
+[se][e] -> [see] 929
+[l][ing ] -> [ling ] 930
+[c][ast ] -> [cast ] 931
+[pi][ec] -> [piec] 932
+[es ][the ] -> [es the ] 933
+[ic][e ] -> [ice ] 934
+[com][e ] -> [come ] 935
+[st][ar] -> [star] 936
+[ as ][a ] -> [ as a ] 937
+[com][m] -> [comm] 938
+[tion][al ] -> [tional ] 939
+[em][o] -> [emo] 940
+[h][er] -> [her] 941
+[en][jo] -> [enjo] 942
+[con][v] -> [conv] 943
+[for][ a ] -> [for a ] 944
+[t][-] -> [t-] 945
+[c][o] -> [co] 946
+[w][ell ] -> [well ] 947
+[g][ra] -> [gra] 948
+[s][ha] -> [sha] 949
+[th][an] -> [than] 950
+[ed ][to ] -> [ed to ] 951
+[c][ra] -> [cra] 952
+[scre][en] -> [screen] 953
+[t][y ] -> [ty ] 954
+[is ][n't ] -> [is n't ] 955
+[es ][and ] -> [es and ] 956
+[from][ the ] -> [from the ] 957
+[gre][at ] -> [great ] 958
+[w][ell] -> [well] 959
+[am][e ] -> [ame ] 960
+[c][li] -> [cli] 961
+[per][i] -> [peri] 962
+[ow][s ] -> [ows ] 963
+[s][m] -> [sm] 964
+[com][pl] -> [compl] 965
+[um][b] -> [umb] 966
+[in][to ] -> [into ] 967
+[. ][it ] -> [. it ] 968
+[m][om] -> [mom] 969
+[g][l] -> [gl] 970
+[ow][n] -> [own] 971
+[ous][ly ] -> [ously ] 972
+[i][ev] -> [iev] 973
+[dra][ma ] -> [drama ] 974
+[d][ay ] -> [day ] 975
+[ff][ec] -> [ffec] 976
+[su][c] -> [suc] 977
+[ol][d ] -> [old ] 978
+[,][ this ] -> [, this ] 979
+[ a][u] -> [ au] 980
+[,][ th] -> [, th] 981
+[i][de] -> [ide] 982
+[i][p] -> [ip] 983
+[tw][o ] -> [two ] 984
+[a][v] -> [av] 985
+[ev][en] -> [even] 986
+[i][v] -> [iv] 987
+[h][igh] -> [high] 988
+[di][ence ] -> [dience ] 989
+[kin][d ] -> [kind ] 990
+[ an][y ] -> [ any ] 991
+[or][s ] -> [ors ] 992
+[g][a] -> [ga] 993
+[ed ][. ] -> [ed . ] 994
+[wh][ere ] -> [where ] 995
+[inter][est] -> [interest] 996
+[si][ve ] -> [sive ] 997
+[ever][y] -> [every] 998
+[self][-] -> [self-] 999
+[c][ul] -> [cul] 1000
+[w][ood ] -> [wood ] 1001
+[docum][ent] -> [document] 1002
+[film][ that ] -> [film that ] 1003
+[wh][en ] -> [when ] 1004
+[ac][e ] -> [ace ] 1005
+[m][ight ] -> [might ] 1006
+[sa][ti] -> [sati] 1007
+[fir][st ] -> [first ] 1008
+[bec][a] -> [beca] 1009
+[em][p] -> [emp] 1010
+[er ]['s ] -> [er 's ] 1011
+[tim][es ] -> [times ] 1012
+[s][we] -> [swe] 1013
+[en][ti] -> [enti] 1014
+[n][ing ] -> [ning ] 1015
+[ed ][with ] -> [ed with ] 1016
+[e][y] -> [ey] 1017
+[surpr][is] -> [surpris] 1018
+[rom][an] -> [roman] 1019
+[scrip][t ] -> [script ] 1020
+[in][v] -> [inv] 1021
+[se][qu] -> [sequ] 1022
+[tion][s ] -> [tions ] 1023

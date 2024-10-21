@@ -1,0 +1,4096 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[e][ ] -> [e ] 256
+[s][ ] -> [s ] 257
+[t][h] -> [th] 258
+[t][ ] -> [t ] 259
+[i][n] -> [in] 260
+[ ][a] -> [ a] 261
+[d][ ] -> [d ] 262
+[e][r] -> [er] 263
+[y][ ] -> [y ] 264
+[ ][th] -> [ th] 265
+[e][n] -> [en] 266
+[a][n] -> [an] 267
+[o][n] -> [on] 268
+[o][r] -> [or] 269
+[in][g] -> [ing] 270
+[.][ ] -> [. ] 271
+[a][r] -> [ar] 272
+[o][u] -> [ou] 273
+[,][ ] -> [, ] 274
+[o][f] -> [of] 275
+[t][i] -> [ti] 276
+[r][e] -> [re] 277
+[ th][e ] -> [ the ] 278
+[a][l] -> [al] 279
+[o][ ] -> [o ] 280
+[ing][ ] -> [ing ] 281
+[i][s ] -> [is ] 282
+[ a][n] -> [ an] 283
+[e][s ] -> [es ] 284
+[l][y ] -> [ly ] 285
+[s][t] -> [st] 286
+[i][l] -> [il] 287
+[c][h] -> [ch] 288
+[ a][ ] -> [ a ] 289
+[o][m] -> [om] 290
+[i][t] -> [it] 291
+[a][ ] -> [a ] 292
+[a][t ] -> [at ] 293
+[of][ ] -> [of ] 294
+[er][ ] -> [er ] 295
+[e][l] -> [el] 296
+[i][t ] -> [it ] 297
+[ an][d ] -> [ and ] 298
+[e][d ] -> [ed ] 299
+[t][o ] -> [to ] 300
+[a][t] -> [at] 301
+['][s ] -> ['s ] 302
+[th][e ] -> [the ] 303
+[e][s] -> [es] 304
+[l][i] -> [li] 305
+[o][v] -> [ov] 306
+[i][c] -> [ic] 307
+[on][ ] -> [on ] 308
+[a][c] -> [ac] 309
+[i][s] -> [is] 310
+[m][a] -> [ma] 311
+[u][n] -> [un] 312
+[l][ ] -> [l ] 313
+[l][e ] -> [le ] 314
+[f][or] -> [for] 315
+[m][ ] -> [m ] 316
+[g][h] -> [gh] 317
+[r][a] -> [ra] 318
+[an][d ] -> [and ] 319
+[w][h] -> [wh] 320
+[e][v] -> [ev] 321
+[o][w] -> [ow] 322
+[a][s] -> [as] 323
+[u][r] -> [ur] 324
+[al][ ] -> [al ] 325
+[f][il] -> [fil] 326
+[an][ ] -> [an ] 327
+[d][i] -> [di] 328
+[e][c] -> [ec] 329
+[h][a] -> [ha] 330
+[i][th] -> [ith] 331
+[t][o] -> [to] 332
+[in][ ] -> [in ] 333
+[r][i] -> [ri] 334
+[b][u] -> [bu] 335
+[en][ ] -> [en ] 336
+[v][e ] -> [ve ] 337
+[m][ov] -> [mov] 338
+[w][ith] -> [with] 339
+[o][s] -> [os] 340
+[c][om] -> [com] 341
+[th][at ] -> [that ] 342
+[s][h] -> [sh] 343
+[a][b] -> [ab] 344
+[mov][i] -> [movi] 345
+[i][r] -> [ir] 346
+[o][l] -> [ol] 347
+[s][i] -> [si] 348
+[u][l] -> [ul] 349
+[e][d] -> [ed] 350
+[e][m] -> [em] 351
+[t][er] -> [ter] 352
+[k][ ] -> [k ] 353
+[o][o] -> [oo] 354
+[y][ou] -> [you] 355
+[p][l] -> [pl] 356
+[e][x] -> [ex] 357
+[bu][t ] -> [but ] 358
+[s][u] -> [su] 359
+[ou][t ] -> [out ] 360
+[b][e] -> [be] 361
+[it][s ] -> [its ] 362
+[movi][e ] -> [movie ] 363
+[ti][on ] -> [tion ] 364
+[p][r] -> [pr] 365
+[t][s ] -> [ts ] 366
+[k][e ] -> [ke ] 367
+[c][e ] -> [ce ] 368
+[fil][m ] -> [film ] 369
+[.][ the ] -> [. the ] 370
+[-][ ] -> [- ] 371
+[n][o] -> [no] 372
+[s][e] -> [se] 373
+[or][ ] -> [or ] 374
+[d][e] -> [de] 375
+[u][s] -> [us] 376
+[a][m] -> [am] 377
+[on][e ] -> [one ] 378
+[of][ the ] -> [of the ] 379
+[.][ a ] -> [. a ] 380
+[p][er] -> [per] 381
+[en][t ] -> [ent ] 382
+[ti][c] -> [tic] 383
+[s][p] -> [sp] 384
+[s][c] -> [sc] 385
+[t][a] -> [ta] 386
+[c][on] -> [con] 387
+[a][s ] -> [as ] 388
+[e][ar] -> [ear] 389
+[p][ ] -> [p ] 390
+[it ]['s ] -> [it 's ] 391
+[ a][s ] -> [ as ] 392
+[ch][ ] -> [ch ] 393
+[you][ ] -> [you ] 394
+[es][s ] -> [ess ] 395
+[ th][at ] -> [ that ] 396
+[.][.] -> [..] 397
+[u][m] -> [um] 398
+[q][u] -> [qu] 399
+[ti][on] -> [tion] 400
+[l][e] -> [le] 401
+[ th][is ] -> [ this ] 402
+[w][or] -> [wor] 403
+[r][b] -> [rb] 404
+[b][e ] -> [be ] 405
+[with][ ] -> [with ] 406
+[o][p] -> [op] 407
+[ou][gh] -> [ough] 408
+[a][g] -> [ag] 409
+[er][e ] -> [ere ] 410
+[f][r] -> [fr] 411
+[er][s ] -> [ers ] 412
+[n]['] -> [n'] 413
+[ti][m] -> [tim] 414
+[n'][t ] -> [n't ] 415
+[en][t] -> [ent] 416
+[p][re] -> [pre] 417
+[o][c] -> [oc] 418
+[f][ ] -> [f ] 419
+[,][ and ] -> [, and ] 420
+[an][d] -> [and] 421
+[or][e ] -> [ore ] 422
+[al][ly ] -> [ally ] 423
+[, ][but ] -> [, but ] 424
+[e][ly ] -> [ely ] 425
+[ou][s ] -> [ous ] 426
+[i][ ] -> [i ] 427
+[a][d] -> [ad] 428
+[a][y ] -> [ay ] 429
+[l][d ] -> [ld ] 430
+[s][om] -> [som] 431
+[ch][ar] -> [char] 432
+[m][an] -> [man] 433
+[ab][le ] -> [able ] 434
+[t][r] -> [tr] 435
+[st][or] -> [stor] 436
+[c][t] -> [ct] 437
+[n][ ] -> [n ] 438
+[rb][- ] -> [rb- ] 439
+[ a][l] -> [ al] 440
+[i][m] -> [im] 441
+[g][ ] -> [g ] 442
+[e ][. ] -> [e . ] 443
+[li][ke ] -> [like ] 444
+[no][t ] -> [not ] 445
+[for][ ] -> [for ] 446
+['][ ] -> [' ] 447
+[ha][s ] -> [has ] 448
+[l][a] -> [la] 449
+[n][e] -> [ne] 450
+[m][ore ] -> [more ] 451
+[v][i] -> [vi] 452
+[f][e] -> [fe] 453
+[g][e] -> [ge] 454
+[ar][e ] -> [are ] 455
+[o][d] -> [od] 456
+[fil][m] -> [film] 457
+[es][t ] -> [est ] 458
+[ur][e ] -> [ure ] 459
+[ an][ ] -> [ an ] 460
+[b][y ] -> [by ] 461
+[o][th] -> [oth] 462
+[fr][om] -> [from] 463
+[i][gh] -> [igh] 464
+[ic][ ] -> [ic ] 465
+[s][o ] -> [so ] 466
+[it][y ] -> [ity ] 467
+[i][d] -> [id] 468
+[os][t ] -> [ost ] 469
+[ow][ ] -> [ow ] 470
+[in][ the ] -> [in the ] 471
+[ou][ld ] -> [ould ] 472
+[al][l] -> [all] 473
+[tic][ ] -> [tic ] 474
+[d][o] -> [do] 475
+[v][er] -> [ver] 476
+[ha][ve ] -> [have ] 477
+[k][s ] -> [ks ] 478
+[r][e ] -> [re ] 479
+[c][l] -> [cl] 480
+[a][p] -> [ap] 481
+[t][t] -> [tt] 482
+[f][u] -> [fu] 483
+[ma][k] -> [mak] 484
+[h][is ] -> [his ] 485
+[..][. ] -> [... ] 486
+[p][o] -> [po] 487
+[`][ ] -> [` ] 488
+[f][un] -> [fun] 489
+[ a][b] -> [ ab] 490
+[oo][d ] -> [ood ] 491
+[el][l] -> [ell] 492
+[en][ce ] -> [ence ] 493
+[g][u] -> [gu] 494
+[st][r] -> [str] 495
+[a][d ] -> [ad ] 496
+[e][p] -> [ep] 497
+[m][ost ] -> [most ] 498
+[di][re] -> [dire] 499
+[o][b] -> [ob] 500
+[y][ and ] -> [y and ] 501
+[-][l] -> [-l] 502
+[it][t] -> [itt] 503
+[th][ing ] -> [thing ] 504
+[ti][ve ] -> [tive ] 505
+[is ][a ] -> [is a ] 506
+[f][f] -> [ff] 507
+[th][e] -> [the] 508
+[-][r] -> [-r] 509
+[w][e] -> [we] 510
+[p][ar] -> [par] 511
+[w][il] -> [wil] 512
+[ev][er ] -> [ever ] 513
+[char][ac] -> [charac] 514
+[a][y] -> [ay] 515
+[ar][ ] -> [ar ] 516
+[d][er] -> [der] 517
+[b][r] -> [br] 518
+[fu][l ] -> [ful ] 519
+[e ][of ] -> [e of ] 520
+[ough][ ] -> [ough ] 521
+[ou][n] -> [oun] 522
+[f][ul] -> [ful] 523
+[s ][. ] -> [s . ] 524
+[an][t ] -> [ant ] 525
+[to][ the ] -> [to the ] 526
+[ou][r] -> [our] 527
+[us][t ] -> [ust ] 528
+[u][t] -> [ut] 529
+[d][e ] -> [de ] 530
+[stor][y ] -> [story ] 531
+[m][in] -> [min] 532
+[b][l] -> [bl] 533
+[,][ the ] -> [, the ] 534
+[l][y] -> [ly] 535
+[en][d] -> [end] 536
+[g][r] -> [gr] 537
+[wh][at ] -> [what ] 538
+[m][ar] -> [mar] 539
+[in][t] -> [int] 540
+[at][e ] -> [ate ] 541
+[ev][er] -> [ever] 542
+[ a][t ] -> [ at ] 543
+[el][ ] -> [el ] 544
+[w][ ] -> [w ] 545
+[m][u] -> [mu] 546
+[ th][e] -> [ the] 547
+[ir][ ] -> [ir ] 548
+[-][- ] -> [-- ] 549
+[o][t ] -> [ot ] 550
+[t][ra] -> [tra] 551
+[as][t ] -> [ast ] 552
+[dire][ct] -> [direct] 553
+[a][tion ] -> [ation ] 554
+[p][e] -> [pe] 555
+[s][el] -> [sel] 556
+[y ][, ] -> [y , ] 557
+[ ab][out ] -> [ about ] 558
+[of][ a ] -> [of a ] 559
+[d][ra] -> [dra] 560
+[ing ][, ] -> [ing , ] 561
+[s][en] -> [sen] 562
+[p][h] -> [ph] 563
+[to][o ] -> [too ] 564
+[g][i] -> [gi] 565
+[a][u] -> [au] 566
+[s][t ] -> [st ] 567
+[c][es ] -> [ces ] 568
+[d][is] -> [dis] 569
+[j][ust ] -> [just ] 570
+[do][es ] -> [does ] 571
+[s ][, ] -> [s , ] 572
+[f][in] -> [fin] 573
+[i][f ] -> [if ] 574
+[e ][, ] -> [e , ] 575
+[th][is ] -> [this ] 576
+[-r][rb- ] -> [-rrb- ] 577
+[il][l] -> [ill] 578
+[com][ed] -> [comed] 579
+[som][e] -> [some] 580
+[ an][d] -> [ and] 581
+[t][er ] -> [ter ] 582
+[. ][it 's ] -> [. it 's ] 583
+[es][s] -> [ess] 584
+[fun][n] -> [funn] 585
+[h][um] -> [hum] 586
+[charac][ter] -> [character] 587
+[th][ ] -> [th ] 588
+[b][le ] -> [ble ] 589
+[w][ay ] -> [way ] 590
+[w][r] -> [wr] 591
+[ow][n ] -> [own ] 592
+[wh][o ] -> [who ] 593
+[i][g] -> [ig] 594
+[j][o] -> [jo] 595
+[al][l ] -> [all ] 596
+[ov][er] -> [over] 597
+[c][re] -> [cre] 598
+[u][p ] -> [up ] 599
+[v][es ] -> [ves ] 600
+[e][t ] -> [et ] 601
+[f][l] -> [fl] 602
+[from][ ] -> [from ] 603
+[per][for] -> [perfor] 604
+[-l][rb- ] -> [-lrb- ] 605
+[m][e] -> [me] 606
+[l][ess ] -> [less ] 607
+[s ][and ] -> [s and ] 608
+[s][a] -> [sa] 609
+[p][a] -> [pa] 610
+[t][e] -> [te] 611
+[ta][in] -> [tain] 612
+[s][ur] -> [sur] 613
+[ing][ly ] -> [ingly ] 614
+[u][c] -> [uc] 615
+[ar][y ] -> [ary ] 616
+[to ][be ] -> [to be ] 617
+[.][ this ] -> [. this ] 618
+[f][a] -> [fa] 619
+[ar][d ] -> [ard ] 620
+[g][ood ] -> [good ] 621
+[wil][l ] -> [will ] 622
+[of][f] -> [off] 623
+[t][w] -> [tw] 624
+[i][al ] -> [ial ] 625
+[g][e ] -> [ge ] 626
+[sc][re] -> [scre] 627
+[l][ov] -> [lov] 628
+[s][er] -> [ser] 629
+[g][re] -> [gre] 630
+[som][e ] -> [some ] 631
+[w][at] -> [wat] 632
+[ing ][. ] -> [ing . ] 633
+[os][e ] -> [ose ] 634
+[n][o ] -> [no ] 635
+[c][an ] -> [can ] 636
+[c][in] -> [cin] 637
+[perfor][man] -> [performan] 638
+[h][i] -> [hi] 639
+[g][o] -> [go] 640
+[d][es] -> [des] 641
+[p][i] -> [pi] 642
+[g][en] -> [gen] 643
+[ev][en ] -> [even ] 644
+[ec][t ] -> [ect ] 645
+[it][e ] -> [ite ] 646
+[ing][ and ] -> [ing and ] 647
+[b][i] -> [bi] 648
+[en][ts ] -> [ents ] 649
+[.][ th] -> [. th] 650
+[e][t] -> [et] 651
+[l][oo] -> [loo] 652
+[in][e ] -> [ine ] 653
+[li][f] -> [lif] 654
+[t][al] -> [tal] 655
+[igh][t ] -> [ight ] 656
+[gh][t ] -> [ght ] 657
+[ou][s] -> [ous] 658
+[e][as] -> [eas] 659
+[you][r] -> [your] 660
+[o][g] -> [og] 661
+[ a][d] -> [ ad] 662
+[on][g ] -> [ong ] 663
+[ac][k] -> [ack] 664
+[t][u] -> [tu] 665
+[l][itt] -> [litt] 666
+[p][or] -> [por] 667
+[oth][er ] -> [other ] 668
+[comed][y ] -> [comedy ] 669
+[m][at] -> [mat] 670
+[su][b] -> [sub] 671
+[`][` ] -> [`` ] 672
+[ma][ke ] -> [make ] 673
+['][' ] -> ['' ] 674
+[direct][or ] -> [director ] 675
+[ing][ the ] -> [ing the ] 676
+[ab][out ] -> [about ] 677
+[tim][e ] -> [time ] 678
+[il][e ] -> [ile ] 679
+[is][h] -> [ish] 680
+[litt][le ] -> [little ] 681
+[mu][ch ] -> [much ] 682
+[in][ter] -> [inter] 683
+[ a][r] -> [ ar] 684
+[h][ear] -> [hear] 685
+[th][r] -> [thr] 686
+[is][e ] -> [ise ] 687
+[d][el] -> [del] 688
+[com][p] -> [comp] 689
+[ a][c] -> [ ac] 690
+[s ][to ] -> [s to ] 691
+[p][p] -> [pp] 692
+[h][e ] -> [he ] 693
+[you ]['] -> [you '] 694
+[at][ed ] -> [ated ] 695
+[ a][m] -> [ am] 696
+[b][ec] -> [bec] 697
+[t][ur] -> [tur] 698
+[i][ous ] -> [ious ] 699
+[with][ a ] -> [with a ] 700
+[wh][i] -> [whi] 701
+[k][ing ] -> [king ] 702
+[on][ the ] -> [on the ] 703
+[h][ol] -> [hol] 704
+[-][-] -> [--] 705
+[li][c] -> [lic] 706
+[s ][of ] -> [s of ] 707
+[f][re] -> [fre] 708
+[s][e ] -> [se ] 709
+[t][ri] -> [tri] 710
+[ic][al ] -> [ical ] 711
+[c][r] -> [cr] 712
+[i][ma] -> [ima] 713
+[y][ear] -> [year] 714
+[an][ce ] -> [ance ] 715
+[en][ter] -> [enter] 716
+[i][es ] -> [ies ] 717
+[n][ess ] -> [ness ] 718
+[ ][. ] -> [ . ] 719
+[c][ar] -> [car] 720
+[your][ ] -> [your ] 721
+[w][e ] -> [we ] 722
+[ac][k ] -> [ack ] 723
+[h][e] -> [he] 724
+[it ][is ] -> [it is ] 725
+[in][ a ] -> [in a ] 726
+[b][o] -> [bo] 727
+[on][ly ] -> [only ] 728
+[e][-] -> [e-] 729
+[si][on ] -> [sion ] 730
+[for][ the ] -> [for the ] 731
+[d][r] -> [dr] 732
+[fe][el] -> [feel] 733
+[ag][e ] -> [age ] 734
+[l][l ] -> [ll ] 735
+[ a][ct] -> [ act] 736
+[ver][y ] -> [very ] 737
+[mak][es ] -> [makes ] 738
+[s][o] -> [so] 739
+[t][ed ] -> [ted ] 740
+[s][ti] -> [sti] 741
+[n][ever ] -> [never ] 742
+[u][s ] -> [us ] 743
+[w][ould ] -> [would ] 744
+[i][f] -> [if] 745
+[m][a ] -> [ma ] 746
+[f][am] -> [fam] 747
+[c][ol] -> [col] 748
+[d][s ] -> [ds ] 749
+[t][en] -> [ten] 750
+[pr][ov] -> [prov] 751
+[f][ir] -> [fir] 752
+[t][ure ] -> [ture ] 753
+[el][l ] -> [ell ] 754
+[re][s] -> [res] 755
+[character][s ] -> [characters ] 756
+[i][z] -> [iz] 757
+[ a][re ] -> [ are ] 758
+[pre][s] -> [pres] 759
+[t][ly ] -> [tly ] 760
+[at][ing ] -> [ating ] 761
+[y ][. ] -> [y . ] 762
+[u][d] -> [ud] 763
+[wor][k ] -> [work ] 764
+[e][st] -> [est] 765
+[.][ an ] -> [. an ] 766
+[a][tion] -> [ation] 767
+[v][is] -> [vis] 768
+[p][ic] -> [pic] 769
+[ful][ly ] -> [fully ] 770
+[r][om] -> [rom] 771
+[b][ad ] -> [bad ] 772
+[sp][ec] -> [spec] 773
+[enter][tain] -> [entertain] 774
+[does ][n't ] -> [does n't ] 775
+[w][as ] -> [was ] 776
+[en][ough ] -> [enough ] 777
+[b][er] -> [ber] 778
+[wh][ile ] -> [while ] 779
+[ge][t ] -> [get ] 780
+[w][ar] -> [war] 781
+[th][er ] -> [ther ] 782
+[f][ac] -> [fac] 783
+[to][ a ] -> [to a ] 784
+[t][ing ] -> [ting ] 785
+[m][ent ] -> [ment ] 786
+[ma][y ] -> [may ] 787
+[a][st] -> [ast] 788
+[ay][s ] -> [ays ] 789
+[u][p] -> [up] 790
+[k][e] -> [ke] 791
+[b][est ] -> [best ] 792
+[at][ely ] -> [ately ] 793
+[a][tive ] -> [ative ] 794
+[movi][es ] -> [movies ] 795
+[k][in] -> [kin] 796
+[p][os] -> [pos] 797
+[ri][p] -> [rip] 798
+[m][e ] -> [me ] 799
+[m][i] -> [mi] 800
+[st][er] -> [ster] 801
+[d][o ] -> [do ] 802
+[ex][c] -> [exc] 803
+[un][der] -> [under] 804
+[ th][r] -> [ thr] 805
+[ al][l] -> [ all] 806
+[re][d ] -> [red ] 807
+[our][ ] -> [our ] 808
+[ab][ly ] -> [ably ] 809
+[ere ]['s ] -> [ere 's ] 810
+[en][d ] -> [end ] 811
+[us][e ] -> [use ] 812
+[c][ould ] -> [could ] 813
+[rb][-] -> [rb-] 814
+[ th][an ] -> [ than ] 815
+[ne][w ] -> [new ] 816
+[th][an ] -> [than ] 817
+[sh][ ] -> [sh ] 818
+[lov][e ] -> [love ] 819
+[lif][e ] -> [life ] 820
+[an][g] -> [ang] 821
+[ing][s ] -> [ings ] 822
+[en][g] -> [eng] 823
+[ma][de ] -> [made ] 824
+[whi][ch ] -> [which ] 825
+[m][an ] -> [man ] 826
+[i][ly ] -> [ily ] 827
+[si][m] -> [sim] 828
+[p][u] -> [pu] 829
+[ing][ a ] -> [ing a ] 830
+[wr][it] -> [writ] 831
+[in][c] -> [inc] 832
+[i][d ] -> [id ] 833
+[funn][y ] -> [funny ] 834
+[be][t] -> [bet] 835
+[wat][ch] -> [watch] 836
+[es ][, ] -> [es , ] 837
+[la][u] -> [lau] 838
+[oo][d] -> [ood] 839
+[d][ic] -> [dic] 840
+[c][ap] -> [cap] 841
+[t][re] -> [tre] 842
+[be][en ] -> [been ] 843
+[ing ][to ] -> [ing to ] 844
+[on][g] -> [ong] 845
+[ al][l ] -> [ all ] 846
+[r][o] -> [ro] 847
+[s][k] -> [sk] 848
+[s ][the ] -> [s the ] 849
+[re][a] -> [rea] 850
+[. the ][film ] -> [. the film ] 851
+[with][ the ] -> [with the ] 852
+[b][el] -> [bel] 853
+[st][e] -> [ste] 854
+[ed][ and ] -> [ed and ] 855
+[film][mak] -> [filmmak] 856
+[,][ a ] -> [, a ] 857
+[b][y] -> [by] 858
+[one ][of the ] -> [one of the ] 859
+[min][ut] -> [minut] 860
+[ima][g] -> [imag] 861
+[k][n] -> [kn] 862
+[performan][ces ] -> [performances ] 863
+[like ][a ] -> [like a ] 864
+[ed ][by ] -> [ed by ] 865
+[er ][. ] -> [er . ] 866
+[es][e ] -> [ese ] 867
+[pl][ot ] -> [plot ] 868
+[as][h] -> [ash] 869
+[k][es ] -> [kes ] 870
+[h][ow ] -> [how ] 871
+[m][is] -> [mis] 872
+[p][ec] -> [pec] 873
+[f][an] -> [fan] 874
+[b][oth] -> [both] 875
+[vi][e] -> [vie] 876
+[with][out ] -> [without ] 877
+[m][o] -> [mo] 878
+[p][ow] -> [pow] 879
+[h][ar] -> [har] 880
+[ ][, ] -> [ , ] 881
+[d][oc] -> [doc] 882
+[lau][gh] -> [laugh] 883
+[ed ][, ] -> [ed , ] 884
+[ the][ir ] -> [ their ] 885
+[t ][, ] -> [t , ] 886
+[re][c] -> [rec] 887
+[re][ally ] -> [really ] 888
+[d][u] -> [du] 889
+[pr][ob] -> [prob] 890
+[re][al] -> [real] 891
+[ever][y ] -> [every ] 892
+[pr][o] -> [pro] 893
+[b][ar] -> [bar] 894
+[h][er ] -> [her ] 895
+[f][i] -> [fi] 896
+[sh][ould ] -> [should ] 897
+[sel][f] -> [self] 898
+[sc][en] -> [scen] 899
+[sur][pr] -> [surpr] 900
+[pe][op] -> [peop] 901
+[peop][le ] -> [people ] 902
+[man][y ] -> [many ] 903
+[se][em] -> [seem] 904
+[sc][rip] -> [scrip] 905
+[sel][f ] -> [self ] 906
+[t ][of ] -> [t of ] 907
+[oun][d ] -> [ound ] 908
+[st][y] -> [sty] 909
+[some][thing ] -> [something ] 910
+[s][ch] -> [sch] 911
+[pl][eas] -> [pleas] 912
+[ti][v] -> [tiv] 913
+[tr][u] -> [tru] 914
+[c][er] -> [cer] 915
+[s][y] -> [sy] 916
+[s][l] -> [sl] 917
+[ma][tic ] -> [matic ] 918
+[sp][ir] -> [spir] 919
+[d][ec] -> [dec] 920
+[doc][um] -> [docum] 921
+[no][thing ] -> [nothing ] 922
+[es ][. ] -> [es . ] 923
+[si][on] -> [sion] 924
+[se][e ] -> [see ] 925
+[er][ic] -> [eric] 926
+[f][as] -> [fas] 927
+[m][em] -> [mem] 928
+[se][e] -> [see] 929
+[l][ing ] -> [ling ] 930
+[c][ast ] -> [cast ] 931
+[pi][ec] -> [piec] 932
+[es ][the ] -> [es the ] 933
+[ic][e ] -> [ice ] 934
+[com][e ] -> [come ] 935
+[st][ar] -> [star] 936
+[ as ][a ] -> [ as a ] 937
+[com][m] -> [comm] 938
+[tion][al ] -> [tional ] 939
+[em][o] -> [emo] 940
+[h][er] -> [her] 941
+[en][jo] -> [enjo] 942
+[con][v] -> [conv] 943
+[for][ a ] -> [for a ] 944
+[t][-] -> [t-] 945
+[c][o] -> [co] 946
+[w][ell ] -> [well ] 947
+[g][ra] -> [gra] 948
+[s][ha] -> [sha] 949
+[th][an] -> [than] 950
+[ed ][to ] -> [ed to ] 951
+[c][ra] -> [cra] 952
+[scre][en] -> [screen] 953
+[t][y ] -> [ty ] 954
+[is ][n't ] -> [is n't ] 955
+[es ][and ] -> [es and ] 956
+[from][ the ] -> [from the ] 957
+[gre][at ] -> [great ] 958
+[w][ell] -> [well] 959
+[am][e ] -> [ame ] 960
+[c][li] -> [cli] 961
+[per][i] -> [peri] 962
+[ow][s ] -> [ows ] 963
+[s][m] -> [sm] 964
+[com][pl] -> [compl] 965
+[um][b] -> [umb] 966
+[in][to ] -> [into ] 967
+[. ][it ] -> [. it ] 968
+[m][om] -> [mom] 969
+[g][l] -> [gl] 970
+[ow][n] -> [own] 971
+[ous][ly ] -> [ously ] 972
+[i][ev] -> [iev] 973
+[dra][ma ] -> [drama ] 974
+[d][ay ] -> [day ] 975
+[ff][ec] -> [ffec] 976
+[su][c] -> [suc] 977
+[ol][d ] -> [old ] 978
+[,][ this ] -> [, this ] 979
+[ a][u] -> [ au] 980
+[,][ th] -> [, th] 981
+[i][de] -> [ide] 982
+[i][p] -> [ip] 983
+[tw][o ] -> [two ] 984
+[a][v] -> [av] 985
+[ev][en] -> [even] 986
+[i][v] -> [iv] 987
+[h][igh] -> [high] 988
+[di][ence ] -> [dience ] 989
+[kin][d ] -> [kind ] 990
+[ an][y ] -> [ any ] 991
+[or][s ] -> [ors ] 992
+[g][a] -> [ga] 993
+[ed ][. ] -> [ed . ] 994
+[wh][ere ] -> [where ] 995
+[inter][est] -> [interest] 996
+[si][ve ] -> [sive ] 997
+[ever][y] -> [every] 998
+[self][-] -> [self-] 999
+[c][ul] -> [cul] 1000
+[w][ood ] -> [wood ] 1001
+[docum][ent] -> [document] 1002
+[film][ that ] -> [film that ] 1003
+[wh][en ] -> [when ] 1004
+[ac][e ] -> [ace ] 1005
+[m][ight ] -> [might ] 1006
+[sa][ti] -> [sati] 1007
+[fir][st ] -> [first ] 1008
+[bec][a] -> [beca] 1009
+[em][p] -> [emp] 1010
+[er ]['s ] -> [er 's ] 1011
+[tim][es ] -> [times ] 1012
+[s][we] -> [swe] 1013
+[en][ti] -> [enti] 1014
+[n][ing ] -> [ning ] 1015
+[ed ][with ] -> [ed with ] 1016
+[e][y] -> [ey] 1017
+[surpr][is] -> [surpris] 1018
+[rom][an] -> [roman] 1019
+[scrip][t ] -> [script ] 1020
+[in][v] -> [inv] 1021
+[se][qu] -> [sequ] 1022
+[tion][s ] -> [tions ] 1023
+[performan][ce ] -> [performance ] 1024
+[d][ev] -> [dev] 1025
+[stor][y] -> [story] 1026
+[m][on] -> [mon] 1027
+[re][al ] -> [real ] 1028
+[movie ][is ] -> [movie is ] 1029
+[the ][film ] -> [the film ] 1030
+[scre][en ] -> [screen ] 1031
+[j][ect ] -> [ject ] 1032
+[s][on] -> [son] 1033
+[d][ly ] -> [dly ] 1034
+[wor][ld ] -> [world ] 1035
+[ri][ght ] -> [right ] 1036
+[ and][ a ] -> [ and a ] 1037
+[s][in] -> [sin] 1038
+[vis][u] -> [visu] 1039
+[h][ere ] -> [here ] 1040
+[en][ces ] -> [ences ] 1041
+[e][f] -> [ef] 1042
+[charac][ter ] -> [character ] 1043
+[t][en ] -> [ten ] 1044
+[st][u] -> [stu] 1045
+[bi][g ] -> [big ] 1046
+[ul][tim] -> [ultim] 1047
+[in][si] -> [insi] 1048
+[es ][of ] -> [es of ] 1049
+[d][ar] -> [dar] 1050
+[hol][ly] -> [holly] 1051
+[d][er ] -> [der ] 1052
+[sim][p] -> [simp] 1053
+[ch][e] -> [che] 1054
+[m][or] -> [mor] 1055
+[es ][to ] -> [es to ] 1056
+[movie ][that ] -> [movie that ] 1057
+[feel][s ] -> [feels ] 1058
+[sti][ll ] -> [still ] 1059
+[of][ten ] -> [often ] 1060
+[be][au] -> [beau] 1061
+[beau][ti] -> [beauti] 1062
+[t][able ] -> [table ] 1063
+[k][id] -> [kid] 1064
+[for][m] -> [form] 1065
+[bet][we] -> [betwe] 1066
+[beca][use ] -> [because ] 1067
+[d][a] -> [da] 1068
+[t][le ] -> [tle ] 1069
+[the][y ] -> [they ] 1070
+[re][s ] -> [res ] 1071
+[it ][. ] -> [it . ] 1072
+[ a][p] -> [ ap] 1073
+[vie][w] -> [view] 1074
+[or][ig] -> [orig] 1075
+[orig][in] -> [origin] 1076
+[ an][y] -> [ any] 1077
+[ th][an] -> [ than] 1078
+[s][w] -> [sw] 1079
+[film][s ] -> [films ] 1080
+[as][s] -> [ass] 1081
+[w][om] -> [wom] 1082
+[h][or] -> [hor] 1083
+[i][st] -> [ist] 1084
+[pl][o] -> [plo] 1085
+[sen][s] -> [sens] 1086
+[w][in] -> [win] 1087
+[s][or] -> [sor] 1088
+[be][tt] -> [bett] 1089
+[h][ard ] -> [hard ] 1090
+[y ][of ] -> [y of ] 1091
+[is ][the ] -> [is the ] 1092
+[in ][its ] -> [in its ] 1093
+[r][un] -> [run] 1094
+[cli][ch] -> [clich] 1095
+[d][ul] -> [dul] 1096
+[c][ri] -> [cri] 1097
+[wh][o] -> [who] 1098
+[d][-] -> [d-] 1099
+[ta][ke ] -> [take ] 1100
+[t ][. ] -> [t . ] 1101
+[i ]['] -> [i '] 1102
+[-l][rb-] -> [-lrb-] 1103
+[both][ ] -> [both ] 1104
+[is][m ] -> [ism ] 1105
+[e ][and ] -> [e and ] 1106
+[gen][er] -> [gener] 1107
+[il][i] -> [ili] 1108
+[l][ong ] -> [long ] 1109
+[loo][k] -> [look] 1110
+[m][er] -> [mer] 1111
+[holly][wood ] -> [hollywood ] 1112
+[:][ ] -> [: ] 1113
+[and][ a ] -> [and a ] 1114
+[w][ere ] -> [were ] 1115
+[pl][ay ] -> [play ] 1116
+[f][lic] -> [flic] 1117
+[ a][f] -> [ af] 1118
+[ ]['s ] -> [ 's ] 1119
+[is][t ] -> [ist ] 1120
+[re][v] -> [rev] 1121
+[sp][i] -> [spi] 1122
+[suc][c] -> [succ] 1123
+[d][ing ] -> [ding ] 1124
+[si][ble ] -> [sible ] 1125
+[s][on ] -> [son ] 1126
+[m][y ] -> [my ] 1127
+[per][f] -> [perf] 1128
+[li][g] -> [lig] 1129
+[ell][ing ] -> [elling ] 1130
+[k][y ] -> [ky ] 1131
+[ent][ly ] -> [ently ] 1132
+[le][a] -> [lea] 1133
+[ and ][the ] -> [ and the ] 1134
+[m][us] -> [mus] 1135
+[w][on] -> [won] 1136
+[kind ][of ] -> [kind of ] 1137
+[er ][, ] -> [er , ] 1138
+[o][gu] -> [ogu] 1139
+[b][or] -> [bor] 1140
+[ish][ ] -> [ish ] 1141
+[u][g] -> [ug] 1142
+[con][t] -> [cont] 1143
+[hum][or ] -> [humor ] 1144
+[has ][a ] -> [has a ] 1145
+[of][ th] -> [of th] 1146
+[in][to the ] -> [into the ] 1147
+[li][k] -> [lik] 1148
+[\][/] -> [\/] 1149
+[es ][a ] -> [es a ] 1150
+[st][and] -> [stand] 1151
+[a][ch] -> [ach] 1152
+[h][al] -> [hal] 1153
+[x][ ] -> [x ] 1154
+[the][ir ] -> [their ] 1155
+[ch][il] -> [chil] 1156
+[pr][od] -> [prod] 1157
+[n][ar] -> [nar] 1158
+[bec][om] -> [becom] 1159
+[re][ad] -> [read] 1160
+[wor][ks ] -> [works ] 1161
+[?][ ] -> [? ] 1162
+[c][as] -> [cas] 1163
+[d][em] -> [dem] 1164
+[ic][k] -> [ick] 1165
+[qu][ite ] -> [quite ] 1166
+[y][ing ] -> [ying ] 1167
+[ing][ that ] -> [ing that ] 1168
+[d][own ] -> [down ] 1169
+[ as ][the ] -> [ as the ] 1170
+[y][-] -> [y-] 1171
+[tur][n] -> [turn] 1172
+[of][f ] -> [off ] 1173
+[c][am] -> [cam] 1174
+[d ][, ] -> [d , ] 1175
+[0][ ] -> [0 ] 1176
+[fam][ily ] -> [family ] 1177
+[s][ex] -> [sex] 1178
+[ the][y ] -> [ they ] 1179
+[y][et ] -> [yet ] 1180
+[s][mar] -> [smar] 1181
+[, and ][the ] -> [, and the ] 1182
+[of ][its ] -> [of its ] 1183
+[int][el] -> [intel] 1184
+[fe][el ] -> [feel ] 1185
+[al][ity ] -> [ality ] 1186
+[, ][it ] -> [, it ] 1187
+[e][p ] -> [ep ] 1188
+[fe][w ] -> [few ] 1189
+[you '][re ] -> [you 're ] 1190
+[in][ this ] -> [in this ] 1191
+[ac][t] -> [act] 1192
+[b][rea] -> [brea] 1193
+[be][for] -> [befor] 1194
+[c][u] -> [cu] 1195
+[m][od] -> [mod] 1196
+[s][ec] -> [sec] 1197
+[dire][c] -> [direc] 1198
+[intel][lig] -> [intellig] 1199
+[ser][v] -> [serv] 1200
+[do ][n't ] -> [do n't ] 1201
+[mat][er] -> [mater] 1202
+[pl][ay] -> [play] 1203
+[di][al] -> [dial] 1204
+[cin][em] -> [cinem] 1205
+[g][ir] -> [gir] 1206
+[st][er ] -> [ster ] 1207
+[prod][uc] -> [produc] 1208
+[n][at] -> [nat] 1209
+[c][a ] -> [ca ] 1210
+[su][m] -> [sum] 1211
+[an][y ] -> [any ] 1212
+[enjo][y] -> [enjoy] 1213
+[ma][in] -> [main] 1214
+[f][ri] -> [fri] 1215
+[document][ary ] -> [documentary ] 1216
+[char][m] -> [charm] 1217
+[dra][ma] -> [drama] 1218
+[ri][f] -> [rif] 1219
+[you][n] -> [youn] 1220
+[e][a] -> [ea] 1221
+[th][er] -> [ther] 1222
+[t ][and ] -> [t and ] 1223
+[ol][og] -> [olog] 1224
+[s][ol] -> [sol] 1225
+[it 's ][a ] -> [it 's a ] 1226
+[t][ou] -> [tou] 1227
+[ca ][n't ] -> [ca n't ] 1228
+[su][ch] -> [such] 1229
+[st][ra] -> [stra] 1230
+[fe][at] -> [feat] 1231
+[b][ri] -> [bri] 1232
+[ex][peri] -> [experi] 1233
+[er][c] -> [erc] 1234
+[roman][tic ] -> [romantic ] 1235
+[c][ur] -> [cur] 1236
+[dial][ogu] -> [dialogu] 1237
+[be][ing ] -> [being ] 1238
+[com][es ] -> [comes ] 1239
+[an][c] -> [anc] 1240
+[pre][dic] -> [predic] 1241
+[bett][er ] -> [better ] 1242
+[ultim][ately ] -> [ultimately ] 1243
+[mom][ents ] -> [moments ] 1244
+[po][in] -> [poin] 1245
+[ful][l ] -> [full ] 1246
+[ thr][ill] -> [ thrill] 1247
+[om][ ] -> [om ] 1248
+[well][-] -> [well-] 1249
+[h][om] -> [hom] 1250
+[d][en] -> [den] 1251
+[fas][cin] -> [fascin] 1252
+[li][ght ] -> [light ] 1253
+[hum][an ] -> [human ] 1254
+[n][i] -> [ni] 1255
+[al][e ] -> [ale ] 1256
+[g][o ] -> [go ] 1257
+[on][ce ] -> [once ] 1258
+[.][ as ] -> [. as ] 1259
+[pic][ture ] -> [picture ] 1260
+[f][ar ] -> [far ] 1261
+[f][la] -> [fla] 1262
+[. th][ere 's ] -> [. there 's ] 1263
+[�][�] -> [é] 1264
+[bel][iev] -> [believ] 1265
+[m][y] -> [my] 1266
+[ac][tion ] -> [action ] 1267
+[pow][er] -> [power] 1268
+[or][y ] -> [ory ] 1269
+[o][t] -> [ot] 1270
+[t ][to ] -> [t to ] 1271
+[ ac][tion ] -> [ action ] 1272
+[in][ation ] -> [ination ] 1273
+[m][el] -> [mel] 1274
+[pr][om] -> [prom] 1275
+[g][n] -> [gn] 1276
+[con][c] -> [conc] 1277
+[ou][t] -> [out] 1278
+[. it 's ][a ] -> [. it 's a ] 1279
+[oth][er] -> [other] 1280
+[sty][le ] -> [style ] 1281
+[gi][ve ] -> [give ] 1282
+[ge][ts ] -> [gets ] 1283
+[b][ack ] -> [back ] 1284
+[p][as] -> [pas] 1285
+[ta][kes ] -> [takes ] 1286
+[al][ and ] -> [al and ] 1287
+[y][p] -> [yp] 1288
+[di][ff] -> [diff] 1289
+[w][a] -> [wa] 1290
+[ig][n] -> [ign] 1291
+[c][oun] -> [coun] 1292
+[p][ite ] -> [pite ] 1293
+[cin][e] -> [cine] 1294
+[sens][e of ] -> [sense of ] 1295
+[por][tra] -> [portra] 1296
+[v][ing ] -> [ving ] 1297
+[con][si] -> [consi] 1298
+[l][ow] -> [low] 1299
+[befor][e ] -> [before ] 1300
+[es ][that ] -> [es that ] 1301
+[des][pite ] -> [despite ] 1302
+[ a][s] -> [ as] 1303
+[, the ][film ] -> [, the film ] 1304
+[origin][al ] -> [original ] 1305
+[seem][s ] -> [seems ] 1306
+[n][ear] -> [near] 1307
+[di][d ] -> [did ] 1308
+[au][dience ] -> [audience ] 1309
+[swe][et ] -> [sweet ] 1310
+[movie ][. ] -> [movie . ] 1311
+[il][ity ] -> [ility ] 1312
+[to][ge] -> [toge] 1313
+[on][d ] -> [ond ] 1314
+[per][son] -> [person] 1315
+[l][ot ] -> [lot ] 1316
+[d][own] -> [down] 1317
+[e][ffec] -> [effec] 1318
+[e ]['s ] -> [e 's ] 1319
+[oc][k] -> [ock] 1320
+[h][il] -> [hil] 1321
+[h][and] -> [hand] 1322
+[f][ol] -> [fol] 1323
+[p][ac] -> [pac] 1324
+[in][to a ] -> [into a ] 1325
+[h][op] -> [hop] 1326
+[b][ur] -> [bur] 1327
+[ at ][the ] -> [ at the ] 1328
+[os][s] -> [oss] 1329
+[mar][k] -> [mark] 1330
+[t][un] -> [tun] 1331
+[ am][eric] -> [ americ] 1332
+[..][.] -> [...] 1333
+[l][o] -> [lo] 1334
+[er][-] -> [er-] 1335
+[ti][ous ] -> [tious ] 1336
+[as ][a ] -> [as a ] 1337
+[le][ast ] -> [least ] 1338
+[oc][k ] -> [ock ] 1339
+[li][gh] -> [ligh] 1340
+[is ][that ] -> [is that ] 1341
+[ex][pec] -> [expec] 1342
+[al][i] -> [ali] 1343
+[er][g] -> [erg] 1344
+[wor][th] -> [worth] 1345
+[s][ou] -> [sou] 1346
+[..][. a ] -> [... a ] 1347
+[vi][de] -> [vide] 1348
+[, but ][it ] -> [, but it ] 1349
+[see][m ] -> [seem ] 1350
+[t][ful ] -> [tful ] 1351
+[qu][i] -> [qui] 1352
+[an][n] -> [ann] 1353
+[li][m] -> [lim] 1354
+[b][it ] -> [bit ] 1355
+[di][st] -> [dist] 1356
+[th][ere ] -> [there ] 1357
+[m][id] -> [mid] 1358
+[1][9] -> [19] 1359
+[e ][that ] -> [e that ] 1360
+[sy][ch] -> [sych] 1361
+[it][self ] -> [itself ] 1362
+[ha][pp] -> [happ] 1363
+[at][es ] -> [ates ] 1364
+[film ][. ] -> [film . ] 1365
+[l][ev] -> [lev] 1366
+[z][z] -> [zz] 1367
+[gi][ves ] -> [gives ] 1368
+[fre][sh] -> [fresh] 1369
+[sh][or] -> [shor] 1370
+[oo][l ] -> [ool ] 1371
+[ne][y ] -> [ney ] 1372
+[g][ood] -> [good] 1373
+[w][ays ] -> [ways ] 1374
+[b][ra] -> [bra] 1375
+[eng][ag] -> [engag] 1376
+[p][sych] -> [psych] 1377
+[oun][d] -> [ound] 1378
+[qu][ir] -> [quir] 1379
+[al][so ] -> [also ] 1380
+[fa][il] -> [fail] 1381
+[o][p ] -> [op ] 1382
+[i][on ] -> [ion ] 1383
+[i][on] -> [ion] 1384
+[c][or] -> [cor] 1385
+[l][ess] -> [less] 1386
+[r][y ] -> [ry ] 1387
+[off][ers ] -> [offers ] 1388
+[b][oo] -> [boo] 1389
+[all][y] -> [ally] 1390
+[of][ this ] -> [of this ] 1391
+[betwe][en ] -> [between ] 1392
+[r][. ] -> [r. ] 1393
+[ef][for] -> [effor] 1394
+[if ][you ] -> [if you ] 1395
+[h][on] -> [hon] 1396
+[ly ][, ] -> [ly , ] 1397
+[tal][e ] -> [tale ] 1398
+[wor][k] -> [work] 1399
+[m ][. ] -> [m . ] 1400
+[ch][ing ] -> [ching ] 1401
+[,][ as ] -> [, as ] 1402
+[man][ag] -> [manag] 1403
+[en][s] -> [ens] 1404
+[v][ent] -> [vent] 1405
+[won][der] -> [wonder] 1406
+[sati][s] -> [satis] 1407
+[en][ the ] -> [en the ] 1408
+[mater][ial ] -> [material ] 1409
+[ an][ a] -> [ an a] 1410
+[have ][been ] -> [have been ] 1411
+[ep][t ] -> [ept ] 1412
+[by ][the ] -> [by the ] 1413
+[tr][an] -> [tran] 1414
+[entertain][ing ] -> [entertaining ] 1415
+[el][e] -> [ele] 1416
+[em][ent ] -> [ement ] 1417
+[s][oc] -> [soc] 1418
+[toge][ther ] -> [together ] 1419
+[experi][ence ] -> [experience ] 1420
+[ch][a] -> [cha] 1421
+[el][ess ] -> [eless ] 1422
+[spec][ial ] -> [special ] 1423
+[on][ a ] -> [on a ] 1424
+[thr][ough] -> [through] 1425
+[tion ][. ] -> [tion . ] 1426
+[sub][ject ] -> [subject ] 1427
+[su][sp] -> [susp] 1428
+[v][ed ] -> [ved ] 1429
+[movie ][, ] -> [movie , ] 1430
+[d][one ] -> [done ] 1431
+[. ][... ] -> [. ... ] 1432
+[-r][rb-] -> [-rrb-] 1433
+[u][su] -> [usu] 1434
+[in][ess ] -> [iness ] 1435
+[se][en ] -> [seen ] 1436
+[m][en] -> [men] 1437
+[op][h] -> [oph] 1438
+[cinem][a ] -> [cinema ] 1439
+[b][as] -> [bas] 1440
+[of][-] -> [of-] 1441
+[all][ the ] -> [all the ] 1442
+[po][int] -> [point] 1443
+[el][y] -> [ely] 1444
+[that ]['s ] -> [that 's ] 1445
+[nar][ra] -> [narra] 1446
+[ a][ga] -> [ aga] 1447
+[to ][s] -> [to s] 1448
+[end][s ] -> [ends ] 1449
+[pl][ays ] -> [plays ] 1450
+[ha][d ] -> [had ] 1451
+[;][ ] -> [; ] 1452
+[st][ud] -> [stud] 1453
+[f][ra] -> [fra] 1454
+[mak][ing ] -> [making ] 1455
+[s][il] -> [sil] 1456
+[h][el] -> [hel] 1457
+[predic][table ] -> [predictable ] 1458
+[some][times ] -> [sometimes ] 1459
+[h][our] -> [hour] 1460
+[po][li] -> [poli] 1461
+[as][on ] -> [ason ] 1462
+[tion ][of ] -> [tion of ] 1463
+[from][ a ] -> [from a ] 1464
+[it][u] -> [itu] 1465
+[n][er] -> [ner] 1466
+[l][ine ] -> [line ] 1467
+[se][tt] -> [sett] 1468
+[l][ong] -> [long] 1469
+[ov][er ] -> [over ] 1470
+[par][t ] -> [part ] 1471
+[vi][ous ] -> [vious ] 1472
+[an][tly ] -> [antly ] 1473
+[sc][i] -> [sci] 1474
+[l][es ] -> [les ] 1475
+[. th][ere ] -> [. there ] 1476
+[m][il] -> [mil] 1477
+[st][ar ] -> [star ] 1478
+[tic][ul] -> [ticul] 1479
+[p][s ] -> [ps ] 1480
+[w][ant ] -> [want ] 1481
+[tic][ally ] -> [tically ] 1482
+[h][ow] -> [how] 1483
+[re][la] -> [rela] 1484
+[mod][er] -> [moder] 1485
+[ about ][the ] -> [ about the ] 1486
+[com][ic ] -> [comic ] 1487
+[l][in] -> [lin] 1488
+[im][pres] -> [impres] 1489
+[is][tic ] -> [istic ] 1490
+[n][on] -> [non] 1491
+[fam][ili] -> [famili] 1492
+[ all][ the ] -> [ all the ] 1493
+[fin][d ] -> [find ] 1494
+[c][a] -> [ca] 1495
+[st][a] -> [sta] 1496
+[hear][t ] -> [heart ] 1497
+[mus][ic ] -> [music ] 1498
+[l][ast ] -> [last ] 1499
+[su][ff] -> [suff] 1500
+[hil][ar] -> [hilar] 1501
+[m][ur] -> [mur] 1502
+[ne][ed] -> [need] 1503
+[--][ and ] -> [-- and ] 1504
+[in][to] -> [into] 1505
+[s][ing] -> [sing] 1506
+[op][p] -> [opp] 1507
+[r][ob] -> [rob] 1508
+[e ][to ] -> [e to ] 1509
+[m][r. ] -> [mr. ] 1510
+[n][a] -> [na] 1511
+[l][ar] -> [lar] 1512
+[sin][ce ] -> [since ] 1513
+[filmmak][ers ] -> [filmmakers ] 1514
+[by][ a ] -> [by a ] 1515
+[ri][v] -> [riv] 1516
+[s][ame ] -> [same ] 1517
+[film ][, ] -> [film , ] 1518
+[d][ and ] -> [d and ] 1519
+[ic][k ] -> [ick ] 1520
+[sh][ow] -> [show] 1521
+[wh][y ] -> [why ] 1522
+[pos][sible ] -> [possible ] 1523
+[compl][et] -> [complet] 1524
+[, but ][the ] -> [, but the ] 1525
+[tr][y ] -> [try ] 1526
+[you '][ll ] -> [you 'll ] 1527
+[t][as] -> [tas] 1528
+[the][at] -> [theat] 1529
+[ac][ks ] -> [acks ] 1530
+[de][p] -> [dep] 1531
+[pl][ac] -> [plac] 1532
+[, ][un] -> [, un] 1533
+[er][a ] -> [era ] 1534
+[ex][pl] -> [expl] 1535
+[tu][ally ] -> [tually ] 1536
+[al][s ] -> [als ] 1537
+[mem][or] -> [memor] 1538
+[youn][g ] -> [young ] 1539
+[l][l] -> [ll] 1540
+[ed ][the ] -> [ed the ] 1541
+[in][k ] -> [ink ] 1542
+[f][us] -> [fus] 1543
+[pre][ten] -> [preten] 1544
+[entertain][ment ] -> [entertainment ] 1545
+[sen][tim] -> [sentim] 1546
+[pr][of] -> [prof] 1547
+[cine][matic ] -> [cinematic ] 1548
+[ri][gu] -> [rigu] 1549
+[f][f ] -> [ff ] 1550
+[pa][in] -> [pain] 1551
+[de][ep] -> [deep] 1552
+[visu][al ] -> [visual ] 1553
+[interest][ing ] -> [interesting ] 1554
+[such][ a ] -> [such a ] 1555
+[w][ar ] -> [war ] 1556
+[. the ][movie ] -> [. the movie ] 1557
+[is ][so ] -> [is so ] 1558
+[screen][play ] -> [screenplay ] 1559
+[fun][ ] -> [fun ] 1560
+[w][al] -> [wal] 1561
+[th][ing] -> [thing] 1562
+[g][ar] -> [gar] 1563
+[c][ou] -> [cou] 1564
+[fascin][ating ] -> [fascinating ] 1565
+[y][s ] -> [ys ] 1566
+[. ][what ] -> [. what ] 1567
+[d][re] -> [dre] 1568
+[b][ack] -> [back] 1569
+[hor][r] -> [horr] 1570
+[p][ul] -> [pul] 1571
+[ent][al ] -> [ental ] 1572
+[cr][u] -> [cru] 1573
+[narra][tive ] -> [narrative ] 1574
+[emo][tional ] -> [emotional ] 1575
+[at][t] -> [att] 1576
+[ al][most ] -> [ almost ] 1577
+[r][u] -> [ru] 1578
+[thr][ough ] -> [through ] 1579
+[c][ent] -> [cent] 1580
+[g][g] -> [gg] 1581
+[who][le ] -> [whole ] 1582
+[is ][an ] -> [is an ] 1583
+[e][ed] -> [eed] 1584
+[del][i] -> [deli] 1585
+[b][ly ] -> [bly ] 1586
+[un][i] -> [uni] 1587
+[ing][-] -> [ing-] 1588
+[. ][i ] -> [. i ] 1589
+[so][li] -> [soli] 1590
+[ic][ally ] -> [ically ] 1591
+[s ][a ] -> [s a ] 1592
+[ser][ies ] -> [series ] 1593
+[it][y and ] -> [ity and ] 1594
+[t][ell] -> [tell] 1595
+[enough ][to ] -> [enough to ] 1596
+[hum][or] -> [humor] 1597
+[film ]['s ] -> [film 's ] 1598
+[in][ste] -> [inste] 1599
+[ed][ly ] -> [edly ] 1600
+[may ][be ] -> [may be ] 1601
+[n][ec] -> [nec] 1602
+[and ][the ] -> [and the ] 1603
+[ation][s ] -> [ations ] 1604
+[od][ra] -> [odra] 1605
+[wor][th ] -> [worth ] 1606
+[hard ][to ] -> [hard to ] 1607
+[hi][story ] -> [history ] 1608
+[wh][ose ] -> [whose ] 1609
+[ear][ ] -> [ear ] 1610
+[minut][es ] -> [minutes ] 1611
+[he ]['s ] -> [he 's ] 1612
+[g][or] -> [gor] 1613
+[h][u] -> [hu] 1614
+[og][ra] -> [ogra] 1615
+[. ][-lrb- ] -> [. -lrb- ] 1616
+[l][at] -> [lat] 1617
+[wat][ch ] -> [watch ] 1618
+[diff][er] -> [differ] 1619
+[b][ ] -> [b ] 1620
+[ the][m ] -> [ them ] 1621
+[il][ ] -> [il ] 1622
+[an][other ] -> [another ] 1623
+[tt][y ] -> [tty ] 1624
+[o][per] -> [oper] 1625
+[ex][erc] -> [exerc] 1626
+[tr][y] -> [try] 1627
+[er ][of ] -> [er of ] 1628
+[l][ed ] -> [led ] 1629
+[, but ][it 's ] -> [, but it 's ] 1630
+[lik][ely ] -> [likely ] 1631
+[scen][es ] -> [scenes ] 1632
+[er][ing ] -> [ering ] 1633
+[loo][k ] -> [look ] 1634
+[dul][l ] -> [dull ] 1635
+[an][y] -> [any] 1636
+[e][qu] -> [equ] 1637
+[u][e ] -> [ue ] 1638
+[ti][tle ] -> [title ] 1639
+[form][ul] -> [formul] 1640
+[ex][p] -> [exp] 1641
+[j][u] -> [ju] 1642
+[fan][tas] -> [fantas] 1643
+[an][ge ] -> [ange ] 1644
+[chil][dr] -> [childr] 1645
+[sh][e ] -> [she ] 1646
+[br][o] -> [bro] 1647
+[e ][the ] -> [e the ] 1648
+[me][di] -> [medi] 1649
+[surpris][ingly ] -> [surprisingly ] 1650
+[v][e] -> [ve] 1651
+[re][e ] -> [ree ] 1652
+[mel][odra] -> [melodra] 1653
+[wor][st ] -> [worst ] 1654
+[out ][of ] -> [out of ] 1655
+[d][am] -> [dam] 1656
+[me][an] -> [mean] 1657
+[prob][ably ] -> [probably ] 1658
+[int][en] -> [inten] 1659
+[a][w] -> [aw] 1660
+[is ][not ] -> [is not ] 1661
+[ver][sion ] -> [version ] 1662
+[pre][c] -> [prec] 1663
+[dar][k ] -> [dark ] 1664
+[ke][ep] -> [keep] 1665
+[re][mark] -> [remark] 1666
+[comp][elling ] -> [compelling ] 1667
+[enjoy][able ] -> [enjoyable ] 1668
+[bet][ter] -> [better] 1669
+[ed ][in ] -> [ed in ] 1670
+[a][p ] -> [ap ] 1671
+[t][or] -> [tor] 1672
+[u][m ] -> [um ] 1673
+[f][ar] -> [far] 1674
+[in][k] -> [ink] 1675
+[have ][a ] -> [have a ] 1676
+[ough][t ] -> [ought ] 1677
+[more ][than ] -> [more than ] 1678
+[o][-] -> [o-] 1679
+[satis][f] -> [satisf] 1680
+[kid][s ] -> [kids ] 1681
+[f][t ] -> [ft ] 1682
+[con][tri] -> [contri] 1683
+[,][ that ] -> [, that ] 1684
+[!][ ] -> [! ] 1685
+[dialogu][e ] -> [dialogue ] 1686
+[ide][a ] -> [idea ] 1687
+[o ]['s ] -> [o 's ] 1688
+[c][are ] -> [care ] 1689
+[ul][t ] -> [ult ] 1690
+[e][k ] -> [ek ] 1691
+[like ][the ] -> [like the ] 1692
+[, ][it 's ] -> [, it 's ] 1693
+[ful ][, ] -> [ful , ] 1694
+[ed][ a ] -> [ed a ] 1695
+[prom][is] -> [promis] 1696
+[th][em] -> [them] 1697
+[and][-] -> [and-] 1698
+[thr][ill] -> [thrill] 1699
+[fa][ir] -> [fair] 1700
+[fr][en] -> [fren] 1701
+[st][ri] -> [stri] 1702
+[ma][ster] -> [master] 1703
+[to ][see ] -> [to see ] 1704
+[sh][ow ] -> [show ] 1705
+[wom][en ] -> [women ] 1706
+[vide][o ] -> [video ] 1707
+[an ]['s ] -> [an 's ] 1708
+[int][rigu] -> [intrigu] 1709
+[st][-] -> [st-] 1710
+[ul][ts ] -> [ults ] 1711
+[am][eric] -> [americ] 1712
+[ ar][ti] -> [ arti] 1713
+[m][ess] -> [mess] 1714
+[.][ al] -> [. al] 1715
+[ma][g] -> [mag] 1716
+[de][fin] -> [defin] 1717
+[the][-] -> [the-] 1718
+[des][er] -> [deser] 1719
+[ed][it] -> [edit] 1720
+[f][all] -> [fall] 1721
+[pr][oc] -> [proc] 1722
+[p][ur] -> [pur] 1723
+[d][d] -> [dd] 1724
+[cer][tain] -> [certain] 1725
+[a ]['s ] -> [a 's ] 1726
+[i][ously ] -> [iously ] 1727
+[ogra][ph] -> [ograph] 1728
+[wr][itt] -> [writt] 1729
+[f][er] -> [fer] 1730
+[c][at] -> [cat] 1731
+[ex][am] -> [exam] 1732
+[ af][ter] -> [ after] 1733
+[t][on ] -> [ton ] 1734
+[go][ing ] -> [going ] 1735
+[prov][id] -> [provid] 1736
+[del][igh] -> [deligh] 1737
+[s ][that ] -> [s that ] 1738
+[s][n] -> [sn] 1739
+[cl][ass] -> [class] 1740
+[mu][ch] -> [much] 1741
+[famili][ar ] -> [familiar ] 1742
+[pre][tty ] -> [pretty ] 1743
+[feat][ure ] -> [feature ] 1744
+[tra][g] -> [trag] 1745
+[kn][ow] -> [know] 1746
+[compl][ex] -> [complex] 1747
+[th][ough ] -> [though ] 1748
+[h][im] -> [him] 1749
+[hal][f] -> [half] 1750
+[ith][er ] -> [ither ] 1751
+[t][v] -> [tv] 1752
+[par][ticul] -> [particul] 1753
+[ap][p] -> [app] 1754
+[y ]['s ] -> [y 's ] 1755
+[simp][ly ] -> [simply ] 1756
+[flic][k ] -> [flick ] 1757
+[en][erg] -> [energ] 1758
+[psych][olog] -> [psycholog] 1759
+[cul][ture ] -> [culture ] 1760
+[imag][in] -> [imagin] 1761
+[he][av] -> [heav] 1762
+[s][ure ] -> [sure ] 1763
+[g][ri] -> [gri] 1764
+[will ][be ] -> [will be ] 1765
+[il][li] -> [illi] 1766
+[li][sh] -> [lish] 1767
+[f][el] -> [fel] 1768
+[you ][can ] -> [you can ] 1769
+[r][is] -> [ris] 1770
+[si][d] -> [sid] 1771
+[min][d] -> [mind] 1772
+[ge][tt] -> [gett] 1773
+[di][e ] -> [die ] 1774
+[inste][ad ] -> [instead ] 1775
+[in][spi] -> [inspi] 1776
+[portra][it ] -> [portrait ] 1777
+[fla][w] -> [flaw] 1778
+[pl][ace ] -> [place ] 1779
+[if][ the ] -> [if the ] 1780
+[gen][re ] -> [genre ] 1781
+[prob][le] -> [proble] 1782
+[ar][ly ] -> [arly ] 1783
+[ter][rif] -> [terrif] 1784
+[in][n] -> [inn] 1785
+[ear][n] -> [earn] 1786
+[tiv][ely ] -> [tively ] 1787
+[w][an] -> [wan] 1788
+[fac][e ] -> [face ] 1789
+[perf][ect ] -> [perfect ] 1790
+[year][s ] -> [years ] 1791
+[a][f] -> [af] 1792
+[sh][ip] -> [ship] 1793
+[mov][ing ] -> [moving ] 1794
+[w][o ] -> [wo ] 1795
+[wo ][n't ] -> [wo n't ] 1796
+[a][th] -> [ath] 1797
+[2][ ] -> [2 ] 1798
+[j][ec] -> [jec] 1799
+[be][en] -> [been] 1800
+[exerc][ise ] -> [exercise ] 1801
+[to ][make ] -> [to make ] 1802
+[ers ][. ] -> [ers . ] 1803
+[vi][ol] -> [viol] 1804
+[hum][an] -> [human] 1805
+[n][ic] -> [nic] 1806
+[be][g] -> [beg] 1807
+[ke][ep ] -> [keep ] 1808
+[go][es ] -> [goes ] 1809
+[beauti][fully ] -> [beautifully ] 1810
+[n][umb] -> [numb] 1811
+[t][e ] -> [te ] 1812
+[t][ar] -> [tar] 1813
+[b][od] -> [bod] 1814
+[watch][ing ] -> [watching ] 1815
+[d][ou] -> [dou] 1816
+[or][d] -> [ord] 1817
+[loo][ks ] -> [looks ] 1818
+[h][o] -> [ho] 1819
+[il][l ] -> [ill ] 1820
+[s][ad] -> [sad] 1821
+[whi][ch] -> [which] 1822
+[i][ally ] -> [ially ] 1823
+[`][`] -> [``] 1824
+[cre][at] -> [creat] 1825
+[tim][e . ] -> [time . ] 1826
+[ra][ther ] -> [rather ] 1827
+[b][it] -> [bit] 1828
+[tion][ally ] -> [tionally ] 1829
+[can ][be ] -> [can be ] 1830
+[poli][tic] -> [politic] 1831
+[fren][ch ] -> [french ] 1832
+[.][ an] -> [. an] 1833
+[de][ta] -> [deta] 1834
+[of th][ose ] -> [of those ] 1835
+[horr][or ] -> [horror ] 1836
+[direc][tion ] -> [direction ] 1837
+[gr][oss] -> [gross] 1838
+[m][er ] -> [mer ] 1839
+[v][el] -> [vel] 1840
+[re][ly ] -> [rely ] 1841
+[e][di] -> [edi] 1842
+[try][ing to ] -> [trying to ] 1843
+[ts ][of ] -> [ts of ] 1844
+[s][la] -> [sla] 1845
+[b][al] -> [bal] 1846
+[rom][ance ] -> [romance ] 1847
+[d ][. ] -> [d . ] 1848
+[p][un] -> [pun] 1849
+[fas][hi] -> [fashi] 1850
+[ am][us] -> [ amus] 1851
+[v][ir] -> [vir] 1852
+[p][s] -> [ps] 1853
+[ing][ as ] -> [ing as ] 1854
+[su][per] -> [super] 1855
+[r][ar] -> [rar] 1856
+[r][ol] -> [rol] 1857
+[vent][ure ] -> [venture ] 1858
+[ta][k] -> [tak] 1859
+[clich][é] -> [cliché] 1860
+[']['] -> [''] 1861
+[mid][d] -> [midd] 1862
+[am][s ] -> [ams ] 1863
+[in ][. ] -> [in . ] 1864
+[po][e] -> [poe] 1865
+[for][c] -> [forc] 1866
+[en][c] -> [enc] 1867
+[l][acks ] -> [lacks ] 1868
+[es ][are ] -> [es are ] 1869
+[every][one ] -> [everyone ] 1870
+[le][ad] -> [lead] 1871
+[ser][ious ] -> [serious ] 1872
+[er][ and ] -> [er and ] 1873
+[al][ing ] -> [aling ] 1874
+[more ][than] -> [more than] 1875
+[ea][ch ] -> [each ] 1876
+[tou][ch] -> [touch] 1877
+[f][ic] -> [fic] 1878
+[br][illi] -> [brilli] 1879
+[r][are ] -> [rare ] 1880
+[intellig][ent ] -> [intelligent ] 1881
+[boo][k ] -> [book ] 1882
+[look][ at ] -> [look at ] 1883
+[te][en] -> [teen] 1884
+[r][en] -> [ren] 1885
+[effec][ts ] -> [effects ] 1886
+[p][-] -> [p-] 1887
+[t ][that ] -> [t that ] 1888
+[l][os] -> [los] 1889
+[v][al] -> [val] 1890
+[.][ a] -> [. a] 1891
+[ a][t] -> [ at] 1892
+[hom][e ] -> [home ] 1893
+[v][o] -> [vo] 1894
+[, ][with ] -> [, with ] 1895
+[you '][ve ] -> [you 've ] 1896
+[y][ as ] -> [y as ] 1897
+[es][cap] -> [escap] 1898
+[for ][its ] -> [for its ] 1899
+[w][ast] -> [wast] 1900
+[. this ][is a ] -> [. this is a ] 1901
+[th][ere 's ] -> [there 's ] 1902
+[kn][ow ] -> [know ] 1903
+[a][in] -> [ain] 1904
+[gi][v] -> [giv] 1905
+[we ]['] -> [we '] 1906
+[near][ly ] -> [nearly ] 1907
+[es][pec] -> [espec] 1908
+[mat][ter ] -> [matter ] 1909
+[le][-] -> [le-] 1910
+[inv][ol] -> [invol] 1911
+[ex][tre] -> [extre] 1912
+[jo][h] -> [joh] 1913
+[gir][l ] -> [girl ] 1914
+[ur][b] -> [urb] 1915
+[ra][ther] -> [rather] 1916
+[fl][u] -> [flu] 1917
+[end][ing ] -> [ending ] 1918
+[p][le ] -> [ple ] 1919
+[pr][op] -> [prop] 1920
+[childr][en ] -> [children ] 1921
+[high][ ] -> [high ] 1922
+[a][k] -> [ak] 1923
+[rev][e] -> [reve] 1924
+[exc][it] -> [excit] 1925
+[funn][y , ] -> [funny , ] 1926
+[fr][an] -> [fran] 1927
+[s ][' ] -> [s ' ] 1928
+[si][de ] -> [side ] 1929
+[it][ch] -> [itch] 1930
+[my][ster] -> [myster] 1931
+[sen][se ] -> [sense ] 1932
+[ americ][an ] -> [ american ] 1933
+[p][op] -> [pop] 1934
+[i][e ] -> [ie ] 1935
+[sh][ot ] -> [shot ] 1936
+[conv][inc] -> [convinc] 1937
+[if ][it ] -> [if it ] 1938
+[w][it ] -> [wit ] 1939
+[por][t] -> [port] 1940
+[sy][m] -> [sym] 1941
+[one ][of ] -> [one of ] 1942
+[shor][t ] -> [short ] 1943
+[in ][his ] -> [in his ] 1944
+[tion][ and ] -> [tion and ] 1945
+[,][ and] -> [, and] 1946
+[de][but ] -> [debut ] 1947
+[su][ch ] -> [such ] 1948
+[ any][one ] -> [ anyone ] 1949
+[espec][ially ] -> [especially ] 1950
+[b][ig] -> [big] 1951
+[b][ad] -> [bad] 1952
+[j][ack] -> [jack] 1953
+[wh][e] -> [whe] 1954
+[en][ess ] -> [eness ] 1955
+[si][gn] -> [sign] 1956
+[ th][ose ] -> [ those ] 1957
+[li][ve ] -> [live ] 1958
+[ af][ter ] -> [ after ] 1959
+[rec][ent ] -> [recent ] 1960
+[at ][the ] -> [at the ] 1961
+[spec][t] -> [spect] 1962
+[s ][is ] -> [s is ] 1963
+[sp][ar] -> [spar] 1964
+[full ][of ] -> [full of ] 1965
+[as ][the ] -> [as the ] 1966
+[ than][ the ] -> [ than the ] 1967
+[ar][i] -> [ari] 1968
+[we][ir] -> [weir] 1969
+[wil][l] -> [will] 1970
+[ab][ility ] -> [ability ] 1971
+[be][y] -> [bey] 1972
+[gir][l] -> [girl] 1973
+[ent][ed ] -> [ented ] 1974
+[ ac][c] -> [ acc] 1975
+[an][e ] -> [ane ] 1976
+[s][itu] -> [situ] 1977
+[piec][e of ] -> [piece of ] 1978
+[pa][th] -> [path] 1979
+[would ][be ] -> [would be ] 1980
+[cra][f] -> [craf] 1981
+[i ]['s ] -> [i 's ] 1982
+[moder][n ] -> [modern ] 1983
+[w][ise ] -> [wise ] 1984
+[tur][n ] -> [turn ] 1985
+[an][t] -> [ant] 1986
+[ex][ec] -> [exec] 1987
+[h][y] -> [hy] 1988
+[hi][stor] -> [histor] 1989
+[li][ves ] -> [lives ] 1990
+[about ][the ] -> [about the ] 1991
+[ thrill][er ] -> [ thriller ] 1992
+[sh][i] -> [shi] 1993
+[h][our ] -> [hour ] 1994
+[z][ ] -> [z ] 1995
+[lea][ve ] -> [leave ] 1996
+[should ][be ] -> [should be ] 1997
+[inter][est ] -> [interest ] 1998
+[em][ents ] -> [ements ] 1999
+[ts ][to ] -> [ts to ] 2000
+[l][ack] -> [lack] 2001
+[certain][ly ] -> [certainly ] 2002
+[tu][re] -> [ture] 2003
+[ob][vious ] -> [obvious ] 2004
+[u][ct] -> [uct] 2005
+[dis][ap] -> [disap] 2006
+[usu][al ] -> [usual ] 2007
+[re][l] -> [rel] 2008
+[g][er] -> [ger] 2009
+[turn][s ] -> [turns ] 2010
+[p][ri] -> [pri] 2011
+[a][-] -> [a-] 2012
+[ac][tually ] -> [actually ] 2013
+[pres][s] -> [press] 2014
+[if ][you 're ] -> [if you 're ] 2015
+[rela][tion] -> [relation] 2016
+[cam][era ] -> [camera ] 2017
+[y][n] -> [yn] 2018
+[ au][dience ] -> [ audience ] 2019
+[c][all] -> [call] 2020
+[del][ic] -> [delic] 2021
+[te][ch] -> [tech] 2022
+[direct][or] -> [director] 2023
+[tru][e ] -> [true ] 2024
+[qu][e ] -> [que ] 2025
+[del][iv] -> [deliv] 2026
+[pre][m] -> [prem] 2027
+[every][thing ] -> [everything ] 2028
+[li][s] -> [lis] 2029
+[g][ot ] -> [got ] 2030
+[fil][l] -> [fill] 2031
+[g][ent] -> [gent] 2032
+[j][our] -> [jour] 2033
+[gen][u] -> [genu] 2034
+[be][at ] -> [beat ] 2035
+[ide][as ] -> [ideas ] 2036
+[consi][der] -> [consider] 2037
+[conv][en] -> [conven] 2038
+[z][y ] -> [zy ] 2039
+[ly][ a ] -> [ly a ] 2040
+[hi][m ] -> [him ] 2041
+[. the film ][is ] -> [. the film is ] 2042
+[be][ar] -> [bear] 2043
+[the ][movie ] -> [the movie ] 2044
+[b][en] -> [ben] 2045
+[on][d] -> [ond] 2046
+[war][m] -> [warm] 2047
+[ch][o] -> [cho] 2048
+[susp][en] -> [suspen] 2049
+[intellig][ence ] -> [intelligence ] 2050
+[i][al] -> [ial] 2051
+[m][ess ] -> [mess ] 2052
+[s][pl] -> [spl] 2053
+[spir][it ] -> [spirit ] 2054
+[joh][n ] -> [john ] 2055
+[com][b] -> [comb] 2056
+[gra][ph] -> [graph] 2057
+[s][y ] -> [sy ] 2058
+[ut][e ] -> [ute ] 2059
+[. ][but ] -> [. but ] 2060
+[ ap][pe] -> [ appe] 2061
+[comedy ][that ] -> [comedy that ] 2062
+[uc][k] -> [uck] 2063
+[sel][ves ] -> [selves ] 2064
+[f][ear] -> [fear] 2065
+[st][re] -> [stre] 2066
+[m][ust ] -> [must ] 2067
+[. the ][movie is ] -> [. the movie is ] 2068
+[of][ an] -> [of an] 2069
+[dra][g] -> [drag] 2070
+[hear][t] -> [heart] 2071
+[stor][ies ] -> [stories ] 2072
+[eas][y ] -> [easy ] 2073
+[a][ch ] -> [ach ] 2074
+[ex][plo] -> [explo] 2075
+[sen][si] -> [sensi] 2076
+[cre][di] -> [credi] 2077
+[manag][es to ] -> [manages to ] 2078
+[what ]['s ] -> [what 's ] 2079
+[ any][thing ] -> [ anything ] 2080
+[sm][all ] -> [small ] 2081
+[a][th ] -> [ath ] 2082
+[t][one ] -> [tone ] 2083
+[as][s ] -> [ass ] 2084
+[re][main] -> [remain] 2085
+[m][ing ] -> [ming ] 2086
+[s][qu] -> [squ] 2087
+[cre][d] -> [cred] 2088
+[m][en ] -> [men ] 2089
+[one ][of those ] -> [one of those ] 2090
+[b][er ] -> [ber ] 2091
+[di][ences ] -> [diences ] 2092
+[t][elling ] -> [telling ] 2093
+[ a][g] -> [ ag] 2094
+[d][umb] -> [dumb] 2095
+[cl][u] -> [clu] 2096
+[c][ar ] -> [car ] 2097
+[complet][ely ] -> [completely ] 2098
+[l][ow ] -> [low ] 2099
+[p][ast ] -> [past ] 2100
+[fl][at ] -> [flat ] 2101
+[sequ][ences ] -> [sequences ] 2102
+[ough][ the ] -> [ough the ] 2103
+[in][-] -> [in-] 2104
+[one of the ][most ] -> [one of the most ] 2105
+[laugh][s ] -> [laughs ] 2106
+[rob][er] -> [rober] 2107
+[ta][st] -> [tast] 2108
+[al][most ] -> [almost ] 2109
+[-][and-] -> [-and-] 2110
+[to be ][a ] -> [to be a ] 2111
+[w][el] -> [wel] 2112
+[re][ason ] -> [reason ] 2113
+[d][ay] -> [day] 2114
+[ers ][, ] -> [ers , ] 2115
+[nat][ur] -> [natur] 2116
+[poin][t ] -> [point ] 2117
+[that ][it ] -> [that it ] 2118
+[ge][ous ] -> [geous ] 2119
+[cre][ep] -> [creep] 2120
+[minut][e ] -> [minute ] 2121
+[com][edi] -> [comedi] 2122
+[ma][y] -> [may] 2123
+[wh][en] -> [when] 2124
+[dis][c] -> [disc] 2125
+[te][en ] -> [teen ] 2126
+[se][t ] -> [set ] 2127
+[ol][d-] -> [old-] 2128
+[is][m] -> [ism] 2129
+[pre][sen] -> [presen] 2130
+[vi][d ] -> [vid ] 2131
+[ent ][, ] -> [ent , ] 2132
+[of the ][year] -> [of the year] 2133
+[dra][matic ] -> [dramatic ] 2134
+[mi][cha] -> [micha] 2135
+[vie][w ] -> [view ] 2136
+[loo][king ] -> [looking ] 2137
+[expec][ted ] -> [expected ] 2138
+[hilar][ious ] -> [hilarious ] 2139
+[str][ong ] -> [strong ] 2140
+[a][m ] -> [am ] 2141
+[preten][tious ] -> [pretentious ] 2142
+[mis][s] -> [miss] 2143
+[n][er ] -> [ner ] 2144
+[w][ay] -> [way] 2145
+[u][ally ] -> [ually ] 2146
+[most ][of the ] -> [most of the ] 2147
+[he][ad ] -> [head ] 2148
+[ that ]['s ] -> [ that 's ] 2149
+[ti][es ] -> [ties ] 2150
+[qu][es] -> [ques] 2151
+[ad][e ] -> [ade ] 2152
+[proble][m ] -> [problem ] 2153
+[mo][st] -> [most] 2154
+[. this ][is ] -> [. this is ] 2155
+[tv][ ] -> [tv ] 2156
+[w][it] -> [wit] 2157
+[ash][ ] -> [ash ] 2158
+[str][uct] -> [struct] 2159
+[li][sh ] -> [lish ] 2160
+[writt][en ] -> [written ] 2161
+[ an ][un] -> [ an un] 2162
+[a ][, ] -> [a , ] 2163
+[2][0] -> [20] 2164
+[hal][f ] -> [half ] 2165
+[re][li] -> [reli] 2166
+[spect][ac] -> [spectac] 2167
+[r][os] -> [ros] 2168
+[sh][ar] -> [shar] 2169
+[sh][ows ] -> [shows ] 2170
+[hon][est ] -> [honest ] 2171
+[str][y ] -> [stry ] 2172
+[l][u] -> [lu] 2173
+[to][-] -> [to-] 2174
+[ta][tion ] -> [tation ] 2175
+[fa][ith] -> [faith] 2176
+[tw][ist] -> [twist] 2177
+[or][ough] -> [orough] 2178
+[fel][t ] -> [felt ] 2179
+[ant ][and ] -> [ant and ] 2180
+[stu][ff ] -> [stuff ] 2181
+[ed][ as ] -> [ed as ] 2182
+[in][s] -> [ins] 2183
+[c][an] -> [can] 2184
+[nec][ess] -> [necess] 2185
+[pro][ject ] -> [project ] 2186
+[enjo][y ] -> [enjoy ] 2187
+[ thr][ough ] -> [ through ] 2188
+[l][an] -> [lan] 2189
+[tr][ac] -> [trac] 2190
+[cl][ever] -> [clever] 2191
+[re][fresh] -> [refresh] 2192
+[a][in ] -> [ain ] 2193
+[i][ve ] -> [ive ] 2194
+[pu][t ] -> [put ] 2195
+[deep][ly ] -> [deeply ] 2196
+[dev][el] -> [devel] 2197
+[ th][ings ] -> [ things ] 2198
+[funn][y and ] -> [funny and ] 2199
+[st][and ] -> [stand ] 2200
+[s][s] -> [ss] 2201
+[ord][in] -> [ordin] 2202
+[s][ad ] -> [sad ] 2203
+[it][ed ] -> [ited ] 2204
+[shi][p ] -> [ship ] 2205
+[ an][other ] -> [ another ] 2206
+[ at ][least ] -> [ at least ] 2207
+[ex][t ] -> [ext ] 2208
+[f][em] -> [fem] 2209
+[ed][-] -> [ed-] 2210
+[did ][n't ] -> [did n't ] 2211
+[ a][tt] -> [ att] 2212
+[e][ur] -> [eur] 2213
+[. the ][story ] -> [. the story ] 2214
+[n][or] -> [nor] 2215
+[l][ec] -> [lec] 2216
+[terrif][ic ] -> [terrific ] 2217
+[act][ors ] -> [actors ] 2218
+[ir][e ] -> [ire ] 2219
+[with ][its ] -> [with its ] 2220
+[t][on] -> [ton] 2221
+[pleas][ure ] -> [pleasure ] 2222
+[oc][cas] -> [occas] 2223
+[ep][is] -> [epis] 2224
+[com][ing-] -> [coming-] 2225
+[i '][m ] -> [i 'm ] 2226
+[t][end] -> [tend] 2227
+[des][per] -> [desper] 2228
+[beauti][ful ] -> [beautiful ] 2229
+[ber][g ] -> [berg ] 2230
+[piec][e ] -> [piece ] 2231
+[s][. ] -> [s. ] 2232
+[fan][s ] -> [fans ] 2233
+[l][it] -> [lit] 2234
+[op][en] -> [open] 2235
+[min][d ] -> [mind ] 2236
+[ta][in ] -> [tain ] 2237
+[re][d] -> [red] 2238
+[e][ff] -> [eff] 2239
+[in][s ] -> [ins ] 2240
+[remark][able ] -> [remarkable ] 2241
+[not ][a ] -> [not a ] 2242
+[deta][il] -> [detail] 2243
+[ti][ce ] -> [tice ] 2244
+[bey][ond ] -> [beyond ] 2245
+[of ][his ] -> [of his ] 2246
+[ed][g] -> [edg] 2247
+[ act][ors ] -> [ actors ] 2248
+[w][ood] -> [wood] 2249
+[re][sp] -> [resp] 2250
+[cl][ever ] -> [clever ] 2251
+[sch][ool ] -> [school ] 2252
+[im][port] -> [import] 2253
+[lev][el ] -> [level ] 2254
+[ne][w] -> [new] 2255
+[ma][j] -> [maj] 2256
+[l][ost ] -> [lost ] 2257
+[sou][l] -> [soul] 2258
+[u][al ] -> [ual ] 2259
+[memor][able ] -> [memorable ] 2260
+[b][an] -> [ban] 2261
+[.][ and ] -> [. and ] 2262
+[real][iz] -> [realiz] 2263
+[while ][the ] -> [while the ] 2264
+[romantic ][comedy ] -> [romantic comedy ] 2265
+[dou][b] -> [doub] 2266
+[im][possible ] -> [impossible ] 2267
+[p][an] -> [pan] 2268
+[st][un] -> [stun] 2269
+[, the ][movie ] -> [, the movie ] 2270
+[car][e] -> [care] 2271
+[has ][the ] -> [has the ] 2272
+[fr][u] -> [fru] 2273
+[read][y ] -> [ready ] 2274
+[ma][d] -> [mad] 2275
+[char][m ] -> [charm ] 2276
+[tru][ly ] -> [truly ] 2277
+[simp][le ] -> [simple ] 2278
+[w][itt] -> [witt] 2279
+[occas][ion] -> [occasion] 2280
+[s][li] -> [sli] 2281
+[insi][gh] -> [insigh] 2282
+[ut][ter] -> [utter] 2283
+[ver][s] -> [vers] 2284
+[ a][way ] -> [ away ] 2285
+[,][ a] -> [, a] 2286
+[an][ces ] -> [ances ] 2287
+[class][ic ] -> [classic ] 2288
+[disap][point] -> [disappoint] 2289
+[it ][, ] -> [it , ] 2290
+[sil][ly ] -> [silly ] 2291
+[view][ers ] -> [viewers ] 2292
+[ful][ and ] -> [ful and ] 2293
+[ter][min] -> [termin] 2294
+[ts ][. ] -> [ts . ] 2295
+[imag][ine ] -> [imagine ] 2296
+[a][ut] -> [aut] 2297
+[w][ard ] -> [ward ] 2298
+[s ][in ] -> [s in ] 2299
+[prem][ise ] -> [premise ] 2300
+[e][th] -> [eth] 2301
+[lea][ves ] -> [leaves ] 2302
+[sp][or] -> [spor] 2303
+[i][an ] -> [ian ] 2304
+[ac][ting ] -> [acting ] 2305
+[micha][el ] -> [michael ] 2306
+[de][ath ] -> [death ] 2307
+[th][ings ] -> [things ] 2308
+[ack ][of ] -> [ack of ] 2309
+[att][emp] -> [attemp] 2310
+[ts ][the ] -> [ts the ] 2311
+[of][ an ] -> [of an ] 2312
+[r][ing ] -> [ring ] 2313
+[bod][y ] -> [body ] 2314
+[devel][op] -> [develop] 2315
+[s][ay ] -> [say ] 2316
+[en][de] -> [ende] 2317
+[str][uc] -> [struc] 2318
+[te][di] -> [tedi] 2319
+[s][and] -> [sand] 2320
+[, ][i ] -> [, i ] 2321
+[k][en] -> [ken] 2322
+[l][d] -> [ld] 2323
+[un][d] -> [und] 2324
+[le][ft ] -> [left ] 2325
+[too ][much ] -> [too much ] 2326
+[screen][writ] -> [screenwrit] 2327
+[tu][res ] -> [tures ] 2328
+[l][ab] -> [lab] 2329
+[ell][ent ] -> [ellent ] 2330
+[stud][y ] -> [study ] 2331
+[al][ways ] -> [always ] 2332
+[bo][y ] -> [boy ] 2333
+[oc][ative ] -> [ocative ] 2334
+[if][ic] -> [ific] 2335
+[differ][ent ] -> [different ] 2336
+[re][mem] -> [remem] 2337
+[less][ly ] -> [lessly ] 2338
+[. an ][un] -> [. an un] 2339
+[fr][on] -> [fron] 2340
+[coming-][of-] -> [coming-of-] 2341
+[funn][i] -> [funni] 2342
+[of][ a] -> [of a] 2343
+[th][ese ] -> [these ] 2344
+[g][ag] -> [gag] 2345
+[h][in] -> [hin] 2346
+[sec][re] -> [secre] 2347
+[soc][ial ] -> [social ] 2348
+[man ]['s ] -> [man 's ] 2349
+[ar][d] -> [ard] 2350
+[to ][watch ] -> [to watch ] 2351
+[1][ ] -> [1 ] 2352
+[fair][ly ] -> [fairly ] 2353
+[, ][who ] -> [, who ] 2354
+[com][for] -> [comfor] 2355
+[ al][so ] -> [ also ] 2356
+[ed by ][the ] -> [ed by the ] 2357
+[oper][a ] -> [opera ] 2358
+[deliv][ers ] -> [delivers ] 2359
+[exercise ][in ] -> [exercise in ] 2360
+[it ][was ] -> [it was ] 2361
+[filmmak][ing ] -> [filmmaking ] 2362
+[seem][s to ] -> [seems to ] 2363
+[mar][k ] -> [mark ] 2364
+[sequ][el ] -> [sequel ] 2365
+[c][ast] -> [cast] 2366
+[cri][me ] -> [crime ] 2367
+[fashi][on] -> [fashion] 2368
+[u][res ] -> [ures ] 2369
+[some ][of the ] -> [some of the ] 2370
+[ow][ing ] -> [owing ] 2371
+[y][ about ] -> [y about ] 2372
+[str][at] -> [strat] 2373
+[ing][ this ] -> [ing this ] 2374
+[engag][ing ] -> [engaging ] 2375
+[tal][e of ] -> [tale of ] 2376
+[m][al] -> [mal] 2377
+[rar][ely ] -> [rarely ] 2378
+[ am][bi] -> [ ambi] 2379
+[m][c] -> [mc] 2380
+[el][se ] -> [else ] 2381
+[on ][its ] -> [on its ] 2382
+[fall][s ] -> [falls ] 2383
+[ri][ble ] -> [rible ] 2384
+[le][g] -> [leg] 2385
+[satisf][ying ] -> [satisfying ] 2386
+[deli][ver] -> [deliver] 2387
+[of][ all ] -> [of all ] 2388
+[ev][ent] -> [event] 2389
+[n][ow ] -> [now ] 2390
+[becom][e ] -> [become ] 2391
+[ex][tra] -> [extra] 2392
+[ch][ill] -> [chill] 2393
+[su][sta] -> [susta] 2394
+[in][di] -> [indi] 2395
+[not ][only ] -> [not only ] 2396
+[. ][un] -> [. un] 2397
+[g][am] -> [gam] 2398
+[h][ ] -> [h ] 2399
+[ro][le ] -> [role ] 2400
+[particul][arly ] -> [particularly ] 2401
+[s][le] -> [sle] 2402
+[--][ a ] -> [-- a ] 2403
+[er][y ] -> [ery ] 2404
+[ra][p] -> [rap] 2405
+[earn][est ] -> [earnest ] 2406
+[ th][ere ] -> [ there ] 2407
+[st][ag] -> [stag] 2408
+[t][yp] -> [typ] 2409
+[is][tic] -> [istic] 2410
+[epis][od] -> [episod] 2411
+[ma][z] -> [maz] 2412
+[movi][e] -> [movie] 2413
+[coming-of-][age ] -> [coming-of-age ] 2414
+[ri][ch ] -> [rich ] 2415
+[produc][tion ] -> [production ] 2416
+[relation][ship] -> [relationship] 2417
+[soli][d ] -> [solid ] 2418
+[n][ov] -> [nov] 2419
+[in][st] -> [inst] 2420
+[ex][ist] -> [exist] 2421
+[l][and ] -> [land ] 2422
+[ aga][in] -> [ again] 2423
+[comp][ell] -> [compell] 2424
+[en][gross] -> [engross] 2425
+[orough][ly ] -> [oroughly ] 2426
+[-][f] -> [-f] 2427
+[po][ign] -> [poign] 2428
+[cl][ear] -> [clear] 2429
+[over][ the ] -> [over the ] 2430
+[eng][th ] -> [ength ] 2431
+[jo][kes ] -> [jokes ] 2432
+[person][al ] -> [personal ] 2433
+[con][cer] -> [concer] 2434
+[no][t] -> [not] 2435
+[ta][ge ] -> [tage ] 2436
+[ity ][. ] -> [ity . ] 2437
+[. ][' ] -> [. ' ] 2438
+[ta][g] -> [tag] 2439
+[inv][en] -> [inven] 2440
+[writ][er-] -> [writer-] 2441
+[bl][ack ] -> [black ] 2442
+[ch][ang] -> [chang] 2443
+[gu][il] -> [guil] 2444
+[who][ are ] -> [who are ] 2445
+[e][y ] -> [ey ] 2446
+[just ][a ] -> [just a ] 2447
+[he][ad] -> [head] 2448
+[ev][ents ] -> [events ] 2449
+[ an][im] -> [ anim] 2450
+[low][-] -> [low-] 2451
+[s ][are ] -> [s are ] 2452
+[feel][ing ] -> [feeling ] 2453
+[a][way ] -> [away ] 2454
+[n][ight ] -> [night ] 2455
+[happ][en] -> [happen] 2456
+[succ][ess] -> [success] 2457
+[de][ad] -> [dead] 2458
+[sc][or] -> [scor] 2459
+[lot ][of ] -> [lot of ] 2460
+[fin][e ] -> [fine ] 2461
+[l][er] -> [ler] 2462
+[r][at] -> [rat] 2463
+[most][ly ] -> [mostly ] 2464
+[run][ning ] -> [running ] 2465
+[ th][em] -> [ them] 2466
+[film ][is ] -> [film is ] 2467
+[su][pp] -> [supp] 2468
+[j][ob] -> [job] 2469
+[gre][at] -> [great] 2470
+[ation ][of ] -> [ation of ] 2471
+[co][-] -> [co-] 2472
+[whe][ther ] -> [whether ] 2473
+[dis][gu] -> [disgu] 2474
+[mi][x] -> [mix] 2475
+[has ][been ] -> [has been ] 2476
+[ar][t ] -> [art ] 2477
+[urb][an ] -> [urban ] 2478
+[ts ][and ] -> [ts and ] 2479
+[ic][ and ] -> [ic and ] 2480
+[it ][all ] -> [it all ] 2481
+[. ][... a ] -> [. ... a ] 2482
+[es ][its ] -> [es its ] 2483
+[it ][a ] -> [it a ] 2484
+[ri][de ] -> [ride ] 2485
+[sati][re ] -> [satire ] 2486
+[ th][ese ] -> [ these ] 2487
+[s . ][it 's ] -> [s . it 's ] 2488
+[sl][ow ] -> [slow ] 2489
+[spi][el] -> [spiel] 2490
+[ous ][and ] -> [ous and ] 2491
+[filmmak][er ] -> [filmmaker ] 2492
+[bu][il] -> [buil] 2493
+[ob][serv] -> [observ] 2494
+[drama][ that ] -> [drama that ] 2495
+[sor][t of ] -> [sort of ] 2496
+[sentim][ental ] -> [sentimental ] 2497
+[fa][v] -> [fav] 2498
+[to][ld ] -> [told ] 2499
+[ic][i] -> [ici] 2500
+[s ][. a ] -> [s . a ] 2501
+[so][ap ] -> [soap ] 2502
+[becom][es ] -> [becomes ] 2503
+[par][t] -> [part] 2504
+[... ][but ] -> [... but ] 2505
+[es][sion] -> [ession] 2506
+[pos][i] -> [posi] 2507
+[viol][ence ] -> [violence ] 2508
+[americ][an ] -> [american ] 2509
+[eas][ily ] -> [easily ] 2510
+[comm][un] -> [commun] 2511
+[power][ful ] -> [powerful ] 2512
+[. al][though ] -> [. although ] 2513
+[f][ur] -> [fur] 2514
+[visu][ally ] -> [visually ] 2515
+[melodra][ma ] -> [melodrama ] 2516
+[consi][st] -> [consist] 2517
+[v][ag] -> [vag] 2518
+[, ][in] -> [, in] 2519
+[ts ][, ] -> [ts , ] 2520
+[him][self ] -> [himself ] 2521
+[re][st ] -> [rest ] 2522
+[on][es ] -> [ones ] 2523
+[may ][not ] -> [may not ] 2524
+[inspi][red ] -> [inspired ] 2525
+[ th][ink ] -> [ think ] 2526
+[ke][y ] -> [key ] 2527
+[-][minute ] -> [-minute ] 2528
+[cont][em] -> [contem] 2529
+[re][pe] -> [repe] 2530
+[col][or] -> [color] 2531
+[s][al] -> [sal] 2532
+[dem][on] -> [demon] 2533
+[par][ents ] -> [parents ] 2534
+[rather][ than ] -> [rather than ] 2535
+[c][la] -> [cla] 2536
+[n][am] -> [nam] 2537
+[ au][diences ] -> [ audiences ] 2538
+[ne][ed ] -> [need ] 2539
+[characters ][are ] -> [characters are ] 2540
+[the][m ] -> [them ] 2541
+[a][ff] -> [aff] 2542
+[histor][ical ] -> [historical ] 2543
+[i][a ] -> [ia ] 2544
+[ent ][and ] -> [ent and ] 2545
+[iz][ing ] -> [izing ] 2546
+[dra][w] -> [draw] 2547
+[e . ][it 's ] -> [e . it 's ] 2548
+[sh][o] -> [sho] 2549
+[formul][a ] -> [formula ] 2550
+[insi][de ] -> [inside ] 2551
+[r][it] -> [rit] 2552
+[th][in] -> [thin] 2553
+[for][tun] -> [fortun] 2554
+[g][one ] -> [gone ] 2555
+[ti][red ] -> [tired ] 2556
+[r][ock ] -> [rock ] 2557
+[in][ed ] -> [ined ] 2558
+[vis][ion ] -> [vision ] 2559
+[den][i] -> [deni] 2560
+[ri][ch] -> [rich] 2561
+[exc][ellent ] -> [excellent ] 2562
+[p][ol] -> [pol] 2563
+[effor][t ] -> [effort ] 2564
+[y][ are ] -> [y are ] 2565
+[li][v] -> [liv] 2566
+[so ][much ] -> [so much ] 2567
+[ous][ness ] -> [ousness ] 2568
+[movie ]['s ] -> [movie 's ] 2569
+[ex][pres] -> [expres] 2570
+[h][and ] -> [hand ] 2571
+[expl][or] -> [explor] 2572
+[i '][ve ] -> [i 've ] 2573
+[sp][o] -> [spo] 2574
+[c][ity ] -> [city ] 2575
+[rober][t ] -> [robert ] 2576
+[z][e ] -> [ze ] 2577
+[star][ts ] -> [starts ] 2578
+[k][ill] -> [kill] 2579
+[dev][o] -> [devo] 2580
+[fin][ally ] -> [finally ] 2581
+[sti][ll] -> [still] 2582
+[c][ele] -> [cele] 2583
+[ity ][, ] -> [ity , ] 2584
+[dar][k] -> [dark] 2585
+[k][ed ] -> [ked ] 2586
+[impres][sive ] -> [impressive ] 2587
+[ act][ing ] -> [ acting ] 2588
+[th][en ] -> [then ] 2589
+[ and ][his ] -> [ and his ] 2590
+[wil][li] -> [willi] 2591
+[f][id] -> [fid] 2592
+[you '][d ] -> [you 'd ] 2593
+[ch][in] -> [chin] 2594
+[j][us] -> [jus] 2595
+[presen][ts ] -> [presents ] 2596
+[trag][ed] -> [traged] 2597
+[f][our ] -> [four ] 2598
+[em][ble ] -> [emble ] 2599
+[..][. the ] -> [... the ] 2600
+[an][ks ] -> [anks ] 2601
+[old-][fashion] -> [old-fashion] 2602
+[special ][effects ] -> [special effects ] 2603
+[ov][e ] -> [ove ] 2604
+[e][ful ] -> [eful ] 2605
+[cl][os] -> [clos] 2606
+[ ][of ] -> [ of ] 2607
+[new ][y] -> [new y] 2608
+[new y][or] -> [new yor] 2609
+[ing][ about ] -> [ing about ] 2610
+[enti][rely ] -> [entirely ] 2611
+[ul][ative ] -> [ulative ] 2612
+[-][year] -> [-year] 2613
+[cul][tur] -> [cultur] 2614
+[th][ree ] -> [three ] 2615
+[defin][it] -> [definit] 2616
+[prov][es ] -> [proves ] 2617
+[fac][t that ] -> [fact that ] 2618
+[v][il] -> [vil] 2619
+[l][ing] -> [ling] 2620
+[p][al] -> [pal] 2621
+[f][ound ] -> [found ] 2622
+[ed ][by a ] -> [ed by a ] 2623
+[which ][is ] -> [which is ] 2624
+[m][ood ] -> [mood ] 2625
+[ele][g] -> [eleg] 2626
+[r][y] -> [ry] 2627
+[ear][s ] -> [ears ] 2628
+[0 ][minutes ] -> [0 minutes ] 2629
+[de][ep ] -> [deep ] 2630
+[th][ough] -> [though] 2631
+[pos][si] -> [possi] 2632
+[str][ang] -> [strang] 2633
+[u][re] -> [ure] 2634
+[. th][ough ] -> [. though ] 2635
+[ur][ing ] -> [uring ] 2636
+[that ][the ] -> [that the ] 2637
+[t][le] -> [tle] 2638
+[c][op] -> [cop] 2639
+[se][ar] -> [sear] 2640
+[ac][c] -> [acc] 2641
+[story][telling ] -> [storytelling ] 2642
+[an][g ] -> [ang ] 2643
+[de][f] -> [def] 2644
+[tr][ou] -> [trou] 2645
+[,][ al] -> [, al] 2646
+[ni][ch] -> [nich] 2647
+[go][of] -> [goof] 2648
+[--][ the ] -> [-- the ] 2649
+[ing ][in ] -> [ing in ] 2650
+[ation][ and ] -> [ation and ] 2651
+[wr][ong ] -> [wrong ] 2652
+[cu][t ] -> [cut ] 2653
+[re][le] -> [rele] 2654
+[rele][as] -> [releas] 2655
+[d][ a ] -> [d a ] 2656
+[ha][m] -> [ham] 2657
+[too ][many ] -> [too many ] 2658
+[l][ou] -> [lou] 2659
+[son ]['s ] -> [son 's ] 2660
+[an][im] -> [anim] 2661
+[f][oc] -> [foc] 2662
+[. the film ]['s ] -> [. the film 's ] 2663
+[re][min] -> [remin] 2664
+[y][s] -> [ys] 2665
+[that ][is ] -> [that is ] 2666
+[b][all ] -> [ball ] 2667
+[politic][al ] -> [political ] 2668
+[ers ][and ] -> [ers and ] 2669
+[tt][ing ] -> [tting ] 2670
+[cent][r] -> [centr] 2671
+[ol][d] -> [old] 2672
+[lit][er] -> [liter] 2673
+[hel][p ] -> [help ] 2674
+[is][su] -> [issu] 2675
+[deligh][tful ] -> [delightful ] 2676
+[succ][eed] -> [succeed] 2677
+[t][ow] -> [tow] 2678
+[in][tim] -> [intim] 2679
+[qui][et ] -> [quiet ] 2680
+[soc][i] -> [soci] 2681
+[be][aut] -> [beaut] 2682
+[ag][o ] -> [ago ] 2683
+[could ][have ] -> [could have ] 2684
+[ again][st ] -> [ against ] 2685
+[exc][ep] -> [excep] 2686
+[bu][d] -> [bud] 2687
+[lat][est ] -> [latest ] 2688
+[to s][ay ] -> [to say ] 2689
+[perf][ec] -> [perfec] 2690
+[w][ed] -> [wed] 2691
+[off][ the ] -> [off the ] 2692
+[:][ the ] -> [: the ] 2693
+[explo][it] -> [exploit] 2694
+[gent][le ] -> [gentle ] 2695
+[film][ about ] -> [film about ] 2696
+[ug][g] -> [ugg] 2697
+[jour][ney ] -> [journey ] 2698
+[man][ip] -> [manip] 2699
+[-][old ] -> [-old ] 2700
+[qu][ick] -> [quick] 2701
+[brilli][ant ] -> [brilliant ] 2702
+[import][ant ] -> [important ] 2703
+[res][s] -> [ress] 2704
+[ic][al] -> [ical] 2705
+[no][c] -> [noc] 2706
+[one ][. ] -> [one . ] 2707
+[s][ever] -> [sever] 2708
+[bas][ed ] -> [based ] 2709
+[us][ed ] -> [used ] 2710
+[un][g ] -> [ung ] 2711
+[em][i] -> [emi] 2712
+[al ][, ] -> [al , ] 2713
+[cl][o] -> [clo] 2714
+[l][ack of ] -> [lack of ] 2715
+[exec][u] -> [execu] 2716
+[pleas][ant ] -> [pleasant ] 2717
+[s][ligh] -> [sligh] 2718
+[pl][ent] -> [plent] 2719
+[fre][qu] -> [frequ] 2720
+[tre][at] -> [treat] 2721
+[and][ a] -> [and a] 2722
+[m][s ] -> [ms ] 2723
+[pa][the] -> [pathe] 2724
+[re][comm] -> [recomm] 2725
+[0][s ] -> [0s ] 2726
+[en][sive ] -> [ensive ] 2727
+[ter][n] -> [tern] 2728
+[in ][which ] -> [in which ] 2729
+[el][ev] -> [elev] 2730
+[fl][ash] -> [flash] 2731
+[h][ous] -> [hous] 2732
+[sh][oo] -> [shoo] 2733
+[all][ow ] -> [allow ] 2734
+[medi][oc] -> [medioc] 2735
+[we][ight ] -> [weight ] 2736
+[suspen][se ] -> [suspense ] 2737
+[watch][able ] -> [watchable ] 2738
+[to][ a] -> [to a] 2739
+[si][v] -> [siv] 2740
+[ne][ither ] -> [neither ] 2741
+[n][u] -> [nu] 2742
+[. ][you ] -> [. you ] 2743
+[exam][ination ] -> [examination ] 2744
+[ph][o] -> [pho] 2745
+[energ][y ] -> [energy ] 2746
+[am][bi] -> [ambi] 2747
+[fun][ . ] -> [fun . ] 2748
+[ma][ster ] -> [master ] 2749
+[in][tr] -> [intr] 2750
+[more than][ a ] -> [more than a ] 2751
+[ro][ad ] -> [road ] 2752
+[just ][as ] -> [just as ] 2753
+[qui][et] -> [quiet] 2754
+[spiel][berg ] -> [spielberg ] 2755
+[fre][sh ] -> [fresh ] 2756
+[cou][ra] -> [coura] 2757
+[gor][geous ] -> [gorgeous ] 2758
+[,][ and a ] -> [, and a ] 2759
+[lic][ ] -> [lic ] 2760
+[ am][oun] -> [ amoun] 2761
+[car][to] -> [carto] 2762
+[di][tion ] -> [dition ] 2763
+[re][war] -> [rewar] 2764
+[20][0] -> [200] 2765
+[sum][mer ] -> [summer ] 2766
+[p][ay] -> [pay] 2767
+[y and ][the ] -> [y and the ] 2768
+[y][ a] -> [y a] 2769
+[c][i] -> [ci] 2770
+[o][tic ] -> [otic ] 2771
+[re][make ] -> [remake ] 2772
+[, ][is ] -> [, is ] 2773
+[quir][ky ] -> [quirky ] 2774
+[mom][ent ] -> [moment ] 2775
+[wh][at] -> [what] 2776
+[f][igh] -> [figh] 2777
+[of][ that ] -> [of that ] 2778
+[rea][m ] -> [ream ] 2779
+[surpr][ise ] -> [surprise ] 2780
+[end][ed ] -> [ended ] 2781
+[re][as] -> [reas] 2782
+[b][ility ] -> [bility ] 2783
+[c][ool ] -> [cool ] 2784
+[k][is] -> [kis] 2785
+[so ][many ] -> [so many ] 2786
+[op][por] -> [oppor] 2787
+[oppor][tun] -> [opportun] 2788
+[b][re] -> [bre] 2789
+[-][the-] -> [-the-] 2790
+[sex][ ] -> [sex ] 2791
+[wonder][ful ] -> [wonderful ] 2792
+[h][ood ] -> [hood ] 2793
+[,][ an] -> [, an] 2794
+[pow][er ] -> [power ] 2795
+[an][e] -> [ane] 2796
+[ ad][m] -> [ adm] 2797
+[wom][an ] -> [woman ] 2798
+[other][wise ] -> [otherwise ] 2799
+[ amus][ing ] -> [ amusing ] 2800
+[enti][re ] -> [entire ] 2801
+[ch][y ] -> [chy ] 2802
+[y][ and] -> [y and] 2803
+[ all ][its ] -> [ all its ] 2804
+[tal][ent ] -> [talent ] 2805
+[ut][ely ] -> [utely ] 2806
+[w][is] -> [wis] 2807
+[believ][able ] -> [believable ] 2808
+[im][prov] -> [improv] 2809
+[n][ever] -> [never] 2810
+[tedi][ous ] -> [tedious ] 2811
+[b][all] -> [ball] 2812
+[un][sett] -> [unsett] 2813
+[de][ad ] -> [dead ] 2814
+[at][ter] -> [atter] 2815
+[makes ][the ] -> [makes the ] 2816
+[out ][the ] -> [out the ] 2817
+[fri][end] -> [friend] 2818
+[ch][as] -> [chas] 2819
+[midd][le ] -> [middle ] 2820
+[el][s ] -> [els ] 2821
+[l][and] -> [land] 2822
+[ph][il] -> [phil] 2823
+[a][ir ] -> [air ] 2824
+[f][oo] -> [foo] 2825
+[theat][er ] -> [theater ] 2826
+[ly][ a] -> [ly a] 2827
+[fail][s to ] -> [fails to ] 2828
+[ap][pe] -> [appe] 2829
+[sc][ar] -> [scar] 2830
+[ aga][in ] -> [ again ] 2831
+[is ][more ] -> [is more ] 2832
+[sp][y ] -> [spy ] 2833
+[ ad][venture ] -> [ adventure ] 2834
+[her][o ] -> [hero ] 2835
+[de][termin] -> [determin] 2836
+[on][e-] -> [one-] 2837
+[wor][king ] -> [working ] 2838
+[bu][l] -> [bul] 2839
+[r][out] -> [rout] 2840
+[character][s . ] -> [characters . ] 2841
+[suff][ers ] -> [suffers ] 2842
+[n][ext ] -> [next ] 2843
+[e][en ] -> [een ] 2844
+[less ][, ] -> [less , ] 2845
+[j][e] -> [je] 2846
+[cont][in] -> [contin] 2847
+[k][i] -> [ki] 2848
+[ti][al ] -> [tial ] 2849
+[ch][i] -> [chi] 2850
+[fir][e ] -> [fire ] 2851
+[pas][sion ] -> [passion ] 2852
+[youn][g] -> [young] 2853
+[cre][ative ] -> [creative ] 2854
+[sp][ea] -> [spea] 2855
+[ch][ange ] -> [change ] 2856
+[an ][un] -> [an un] 2857
+[3][ ] -> [3 ] 2858
+[believ][e ] -> [believe ] 2859
+[ed ][in the ] -> [ed in the ] 2860
+[j][er] -> [jer] 2861
+[ing ][of ] -> [ing of ] 2862
+[-lrb-][ and ] -> [-lrb- and ] 2863
+[me][ta] -> [meta] 2864
+[meta][ph] -> [metaph] 2865
+[res][on] -> [reson] 2866
+['][ a ] -> [' a ] 2867
+[or ]['s ] -> [or 's ] 2868
+[peri][o] -> [perio] 2869
+[der][iv] -> [deriv] 2870
+[with][ an ] -> [with an ] 2871
+[high][-] -> [high-] 2872
+[conc][ept ] -> [concept ] 2873
+[p][ure ] -> [pure ] 2874
+[be][hin] -> [behin] 2875
+[d ][the ] -> [d the ] 2876
+[of][ their ] -> [of their ] 2877
+[love ][story ] -> [love story ] 2878
+[ir][on] -> [iron] 2879
+[t ]['s ] -> [t 's ] 2880
+[l][em] -> [lem] 2881
+[one of the ][best ] -> [one of the best ] 2882
+[str][ange ] -> [strange ] 2883
+[at][ing , ] -> [ating , ] 2884
+[f][at] -> [fat] 2885
+[ac][y ] -> [acy ] 2886
+[tech][n] -> [techn] 2887
+[character][s , ] -> [characters , ] 2888
+[s][ac] -> [sac] 2889
+[str][ong] -> [strong] 2890
+[or][ the ] -> [or the ] 2891
+[bud][get ] -> [budget ] 2892
+[fam][il] -> [famil] 2893
+[s][ay] -> [say] 2894
+[r][oo] -> [roo] 2895
+[his ][own ] -> [his own ] 2896
+[. ][despite ] -> [. despite ] 2897
+[h][en] -> [hen] 2898
+[da][vid ] -> [david ] 2899
+[un][der ] -> [under ] 2900
+[lis][tic ] -> [listic ] 2901
+[do][g] -> [dog] 2902
+[emo][tionally ] -> [emotionally ] 2903
+[s ][as ] -> [s as ] 2904
+[. there ][are ] -> [. there are ] 2905
+[d][y ] -> [dy ] 2906
+[mess][age ] -> [message ] 2907
+[cl][ose ] -> [close ] 2908
+[sub][tle ] -> [subtle ] 2909
+[val][u] -> [valu] 2910
+[to][p ] -> [top ] 2911
+[pas][sion] -> [passion] 2912
+[real][ity ] -> [reality ] 2913
+[writer-][director ] -> [writer-director ] 2914
+[em][erg] -> [emerg] 2915
+[-lrb-][ a ] -> [-lrb- a ] 2916
+[w][ash] -> [wash] 2917
+[v][ic] -> [vic] 2918
+[over][all ] -> [overall ] 2919
+[h][yp] -> [hyp] 2920
+[oth][ers ] -> [others ] 2921
+[w][all] -> [wall] 2922
+[u][red ] -> [ured ] 2923
+[c][ann] -> [cann] 2924
+[dis][ney ] -> [disney ] 2925
+[occasion][ally ] -> [occasionally ] 2926
+[g][ed ] -> [ged ] 2927
+[pp][ing ] -> [pping ] 2928
+[i][i ] -> [ii ] 2929
+[1][0] -> [10] 2930
+[the ][most ] -> [the most ] 2931
+[di][g] -> [dig] 2932
+[m][ac] -> [mac] 2933
+[n][ed ] -> [ned ] 2934
+[comedy ][. ] -> [comedy . ] 2935
+[dec][ent ] -> [decent ] 2936
+[wh][en the ] -> [when the ] 2937
+[stra][ight ] -> [straight ] 2938
+[m ][, ] -> [m , ] 2939
+[bl][ood] -> [blood] 2940
+[bar][ely ] -> [barely ] 2941
+[r][is ] -> [ris ] 2942
+[i][di] -> [idi] 2943
+[ti][t] -> [tit] 2944
+[document][ar] -> [documentar] 2945
+[ul][ar ] -> [ular ] 2946
+[ordin][ary ] -> [ordinary ] 2947
+[im][p] -> [imp] 2948
+[what ][is ] -> [what is ] 2949
+[ri][st] -> [rist] 2950
+[j][ap] -> [jap] 2951
+[g][ang] -> [gang] 2952
+[phil][os] -> [philos] 2953
+[philos][oph] -> [philosoph] 2954
+[ch][ed ] -> [ched ] 2955
+[en][th] -> [enth] 2956
+[tion][ that ] -> [tion that ] 2957
+[.][ at ] -> [. at ] 2958
+[diff][ic] -> [diffic] 2959
+[prov][o] -> [provo] 2960
+[ol][u] -> [olu] 2961
+[el][ements ] -> [elements ] 2962
+[contri][v] -> [contriv] 2963
+[res][s ] -> [ress ] 2964
+[supp][os] -> [suppos] 2965
+[nat][ure ] -> [nature ] 2966
+[le][ts ] -> [lets ] 2967
+[h][all] -> [hall] 2968
+[of th][ese ] -> [of these ] 2969
+[fu][ture ] -> [future ] 2970
+[in][dul] -> [indul] 2971
+[tal][k] -> [talk] 2972
+[ex][ac] -> [exac] 2973
+[go][ing to ] -> [going to ] 2974
+[``][ the ] -> [`` the ] 2975
+[po][ten] -> [poten] 2976
+[-- ][but ] -> [-- but ] 2977
+[ri][d] -> [rid] 2978
+[, th][en ] -> [, then ] 2979
+[er ][is ] -> [er is ] 2980
+[makes ][it ] -> [makes it ] 2981
+[y][m] -> [ym] 2982
+[n][ice ] -> [nice ] 2983
+[dep][th ] -> [depth ] 2984
+[we][a] -> [wea] 2985
+[li][es ] -> [lies ] 2986
+[ ar][ound ] -> [ around ] 2987
+[ th][ere 's ] -> [ there 's ] 2988
+[ th][ough] -> [ though] 2989
+[car][ri] -> [carri] 2990
+[l][uc] -> [luc] 2991
+[\][*] -> [\*] 2992
+[s][oph] -> [soph] 2993
+[soph][istic] -> [sophistic] 2994
+[wel][come ] -> [welcome ] 2995
+[e][f ] -> [ef ] 2996
+[er][ that ] -> [er that ] 2997
+[win][d] -> [wind] 2998
+[perio][d ] -> [period ] 2999
+[li][st] -> [list] 3000
+[th][ose ] -> [those ] 3001
+[dre][am] -> [dream] 3002
+[sha][p] -> [shap] 3003
+[tion ][, ] -> [tion , ] 3004
+[ch][iev] -> [chiev] 3005
+[c][ir] -> [cir] 3006
+[in][spir] -> [inspir] 3007
+[br][ings ] -> [brings ] 3008
+[o][s ] -> [os ] 3009
+[in][du] -> [indu] 3010
+[l][y and ] -> [ly and ] 3011
+[kn][ows ] -> [knows ] 3012
+[cer][tain ] -> [certain ] 3013
+[-][movie ] -> [-movie ] 3014
+[h][oo] -> [hoo] 3015
+[col][le] -> [colle] 3016
+[n][ation] -> [nation] 3017
+[.][ that ] -> [. that ] 3018
+[prov][ocative ] -> [provocative ] 3019
+[cr][ow] -> [crow] 3020
+[, ][or ] -> [, or ] 3021
+[quir][k] -> [quirk] 3022
+[col][lec] -> [collec] 3023
+[you ][might ] -> [you might ] 3024
+[tri][um] -> [trium] 3025
+[trium][ph] -> [triumph] 3026
+[t][own ] -> [town ] 3027
+[he ][has ] -> [he has ] 3028
+[con][tr] -> [contr] 3029
+[cast ][is ] -> [cast is ] 3030
+[swe][et] -> [sweet] 3031
+[ing ][is ] -> [ing is ] 3032
+[sensi][tive ] -> [sensitive ] 3033
+[ens][emble ] -> [ensemble ] 3034
+[a ][movie ] -> [a movie ] 3035
+[some][one ] -> [someone ] 3036
+[sub][st] -> [subst] 3037
+[cl][ud] -> [clud] 3038
+[ch][es ] -> [ches ] 3039
+[d][an] -> [dan] 3040
+[l][oc] -> [loc] 3041
+[ing][ at ] -> [ing at ] 3042
+[ra][ble ] -> [rable ] 3043
+[-year][-old ] -> [-year-old ] 3044
+[convinc][ing ] -> [convincing ] 3045
+[ra][m] -> [ram] 3046
+[g][un] -> [gun] 3047
+[tion][s , ] -> [tions , ] 3048
+[nov][el ] -> [novel ] 3049
+[for][gett] -> [forgett] 3050
+[oun][ds ] -> [ounds ] 3051
+[comp][lic] -> [complic] 3052
+[this ][movie ] -> [this movie ] 3053
+[m][edit] -> [medit] 3054
+[b][at] -> [bat] 3055
+[gr][ac] -> [grac] 3056
+[sing][le ] -> [single ] 3057
+[perfor][m] -> [perform] 3058
+[bu][ll] -> [bull] 3059
+[d ][up ] -> [d up ] 3060
+[high][ly ] -> [highly ] 3061
+[itt][ing ] -> [itting ] 3062
+[, th][ough ] -> [, though ] 3063
+[ about ][a ] -> [ about a ] 3064
+[ing][ an ] -> [ing an ] 3065
+[character][s and ] -> [characters and ] 3066
+['][re ] -> ['re ] 3067
+[genu][ine ] -> [genuine ] 3068
+[pro][ach ] -> [proach ] 3069
+[dr][y ] -> [dry ] 3070
+[exp][ect ] -> [expect ] 3071
+[qu][ality ] -> [quality ] 3072
+[e][fully ] -> [efully ] 3073
+[pa][ti] -> [pati] 3074
+[af][ter] -> [after] 3075
+[smar][t ] -> [smart ] 3076
+[sa][v] -> [sav] 3077
+[s][inc] -> [sinc] 3078
+[fem][ale ] -> [female ] 3079
+[to ][its ] -> [to its ] 3080
+[e][ither ] -> [either ] 3081
+[tran][s] -> [trans] 3082
+[ated ][by ] -> [ated by ] 3083
+[through][ the ] -> [through the ] 3084
+[r][ent ] -> [rent ] 3085
+[ anyone ][who ] -> [ anyone who ] 3086
+[enth][u] -> [enthu] 3087
+[enthu][si] -> [enthusi] 3088
+[off][ensive ] -> [offensive ] 3089
+[ the][at] -> [ theat] 3090
+[tic][ and ] -> [tic and ] 3091
+[al][ong ] -> [along ] 3092
+[r][ac] -> [rac] 3093
+[ima][tion ] -> [imation ] 3094
+[p][ass] -> [pass] 3095
+[n][or ] -> [nor ] 3096
+[st][al] -> [stal] 3097
+[tra][di] -> [tradi] 3098
+[people ][who ] -> [people who ] 3099
+[fol][low] -> [follow] 3100
+[ig][n ] -> [ign ] 3101
+[sec][ond ] -> [second ] 3102
+[instead ][of ] -> [instead of ] 3103
+[ than][ a ] -> [ than a ] 3104
+[her][ent ] -> [herent ] 3105
+['s ][-rrb- ] -> ['s -rrb- ] 3106
+[wil][d ] -> [wild ] 3107
+[series ][of ] -> [series of ] 3108
+[stu][di] -> [studi] 3109
+[to][t] -> [tot] 3110
+[ge][or] -> [geor] 3111
+[contem][por] -> [contempor] 3112
+[, ][in ] -> [, in ] 3113
+[conc][e] -> [conce] 3114
+[c][al] -> [cal] 3115
+[ed][ as a ] -> [ed as a ] 3116
+[necess][ary ] -> [necessary ] 3117
+[. the ][script ] -> [. the script ] 3118
+[de][press] -> [depress] 3119
+[su][perf] -> [superf] 3120
+[formul][a] -> [formula] 3121
+[giv][en ] -> [given ] 3122
+[bl][and ] -> [bland ] 3123
+[stu][pi] -> [stupi] 3124
+[de][st] -> [dest] 3125
+[st][even ] -> [steven ] 3126
+[contin][u] -> [continu] 3127
+[sor][b] -> [sorb] 3128
+[tri][p ] -> [trip ] 3129
+[vi][vi] -> [vivi] 3130
+[ thr][ough the ] -> [ through the ] 3131
+[c][ore ] -> [core ] 3132
+[ation ][of the ] -> [ation of the ] 3133
+[cou][ple ] -> [couple ] 3134
+[tast][e ] -> [taste ] 3135
+[even][ the ] -> [even the ] 3136
+[gu][ys ] -> [guys ] 3137
+[ all][en ] -> [ allen ] 3138
+[r][ical ] -> [rical ] 3139
+[shar][p ] -> [sharp ] 3140
+[rev][el] -> [revel] 3141
+[insi][ght ] -> [insight ] 3142
+[br][ing ] -> [bring ] 3143
+[ed][ge ] -> [edge ] 3144
+[in][es ] -> [ines ] 3145
+[pu][b] -> [pub] 3146
+[utter][ly ] -> [utterly ] 3147
+[t][ent ] -> [tent ] 3148
+[-][out ] -> [-out ] 3149
+[, th][ere ] -> [, there ] 3150
+[flic][ks ] -> [flicks ] 3151
+[n][e ] -> [ne ] 3152
+[ ad][ap] -> [ adap] 3153
+[sur][r] -> [surr] 3154
+[on ][. ] -> [on . ] 3155
+[th][en] -> [then] 3156
+[har][d-] -> [hard-] 3157
+[in][ their ] -> [in their ] 3158
+[intrigu][ing ] -> [intriguing ] 3159
+[er ][to ] -> [er to ] 3160
+[br][ac] -> [brac] 3161
+[iz][e ] -> [ize ] 3162
+[perfec][tly ] -> [perfectly ] 3163
+[lar][g] -> [larg] 3164
+[y][ a ] -> [y a ] 3165
+[extre][m] -> [extrem] 3166
+[k][en ] -> [ken ] 3167
+[bl][u] -> [blu] 3168
+[. there ][is ] -> [. there is ] 3169
+[year][ 's ] -> [year 's ] 3170
+[in][credi] -> [incredi] 3171
+[ra][is] -> [rais] 3172
+[moments ][of ] -> [moments of ] 3173
+[tic][k ] -> [tick ] 3174
+[new yor][k ] -> [new york ] 3175
+[manip][ulative ] -> [manipulative ] 3176
+[ation ][. ] -> [ation . ] 3177
+[inven][tive ] -> [inventive ] 3178
+[fi][el] -> [fiel] 3179
+[story][tell] -> [storytell] 3180
+[comed][y , ] -> [comedy , ] 3181
+[forgett][able ] -> [forgettable ] 3182
+[cl][ass ] -> [class ] 3183
+[imag][ination ] -> [imagination ] 3184
+[tou][ch ] -> [touch ] 3185
+[becom][es a ] -> [becomes a ] 3186
+[res][ult ] -> [result ] 3187
+[cl][ear ] -> [clear ] 3188
+[,][ they ] -> [, they ] 3189
+[m][os] -> [mos] 3190
+[some][what ] -> [somewhat ] 3191
+[le ][to ] -> [le to ] 3192
+[ th][ree ] -> [ three ] 3193
+[har][d] -> [hard] 3194
+[gr][at] -> [grat] 3195
+[sever][al ] -> [several ] 3196
+[dem][and] -> [demand] 3197
+[imagin][ative ] -> [imaginative ] 3198
+[k][id ] -> [kid ] 3199
+[uc][k ] -> [uck ] 3200
+[director ]['s ] -> [director 's ] 3201
+[her][o] -> [hero] 3202
+[es][sen] -> [essen] 3203
+[cri][tic] -> [critic] 3204
+[bur][n] -> [burn] 3205
+[for][get ] -> [forget ] 3206
+[funn][y . ] -> [funny . ] 3207
+[ol][es] -> [oles] 3208
+[deser][ves ] -> [deserves ] 3209
+[u][ ] -> [u ] 3210
+[dec][ad] -> [decad] 3211
+[from ][its ] -> [from its ] 3212
+[b][ol] -> [bol] 3213
+[char][is] -> [charis] 3214
+[s ][. the ] -> [s . the ] 3215
+[en][ and ] -> [en and ] 3216
+[ad][d] -> [add] 3217
+[trou][ble ] -> [trouble ] 3218
+[succ][ess ] -> [success ] 3219
+[fin][al ] -> [final ] 3220
+[,][ at ] -> [, at ] 3221
+[. ][like ] -> [. like ] 3222
+[proc][ess ] -> [process ] 3223
+[could ][be ] -> [could be ] 3224
+[run][ ] -> [run ] 3225
+[it ][does n't ] -> [it does n't ] 3226
+[an][ a] -> [an a] 3227
+[brea][th] -> [breath] 3228
+[enthusi][as] -> [enthusias] 3229
+[sha][d] -> [shad] 3230
+[se][at ] -> [seat ] 3231
+[id][e ] -> [ide ] 3232
+[s][pr] -> [spr] 3233
+[. ][if ] -> [. if ] 3234
+[takes ][a ] -> [takes a ] 3235
+[minut][es of ] -> [minutes of ] 3236
+[con][fus] -> [confus] 3237
+[ne][y] -> [ney] 3238
+[le][av] -> [leav] 3239
+[craf][ted ] -> [crafted ] 3240
+[com][pe] -> [compe] 3241
+[bor][ing ] -> [boring ] 3242
+[ as][su] -> [ assu] 3243
+[es ][of the ] -> [es of the ] 3244
+[pre][vious ] -> [previous ] 3245
+[work ][. ] -> [work . ] 3246
+[e][k] -> [ek] 3247
+[...][ and ] -> [... and ] 3248
+[d][ate ] -> [date ] 3249
+[con][clu] -> [conclu] 3250
+[f][ig] -> [fig] 3251
+[cru][sh ] -> [crush ] 3252
+[indul][g] -> [indulg] 3253
+[gu][y ] -> [guy ] 3254
+[th][ing that ] -> [thing that ] 3255
+[b][ag] -> [bag] 3256
+[ate ][the ] -> [ate the ] 3257
+[po][st] -> [post] 3258
+[se][a ] -> [sea ] 3259
+[po][or] -> [poor] 3260
+[can ][not ] -> [can not ] 3261
+[bu][t] -> [but] 3262
+[p][ack] -> [pack] 3263
+[cap][ture] -> [capture] 3264
+[on][ish] -> [onish] 3265
+[tion][s . ] -> [tions . ] 3266
+[cinem][at] -> [cinemat] 3267
+[cinemat][ograph] -> [cinematograph] 3268
+[like ][this ] -> [like this ] 3269
+[ act][or] -> [ actor] 3270
+[win][ning ] -> [winning ] 3271
+[under][stand] -> [understand] 3272
+[ul][t] -> [ult] 3273
+[hon][est] -> [honest] 3274
+[story ][is ] -> [story is ] 3275
+[them][selves ] -> [themselves ] 3276
+[how][ever ] -> [however ] 3277
+[cr][is] -> [cris] 3278
+[psycholog][ical ] -> [psychological ] 3279
+[it ][has ] -> [it has ] 3280
+[remem][ber] -> [remember] 3281
+[uni][vers] -> [univers] 3282
+[smar][t , ] -> [smart , ] 3283
+[x ][of ] -> [x of ] 3284
+[b][ir] -> [bir] 3285
+[f][an ] -> [fan ] 3286
+[at][es the ] -> [ates the ] 3287
+[gr][ou] -> [grou] 3288
+[. ][it is ] -> [. it is ] 3289
+[b][and ] -> [band ] 3290
+[prob][lem] -> [problem] 3291
+[keep][s ] -> [keeps ] 3292
+[g][lim] -> [glim] 3293
+[wh][ite ] -> [white ] 3294
+[up][ the ] -> [up the ] 3295
+[us][e of ] -> [use of ] 3296
+[ep][ic ] -> [epic ] 3297
+[ex][per] -> [exper] 3298
+[writ][er ] -> [writer ] 3299
+[mar][vel] -> [marvel] 3300
+[tic][k] -> [tick] 3301
+[igh][t] -> [ight] 3302
+[far ][more ] -> [far more ] 3303
+[could ][n't ] -> [could n't ] 3304
+[faith][ful ] -> [faithful ] 3305
+[tra][pp] -> [trapp] 3306
+[en][er] -> [ener] 3307
+[surpris][ing ] -> [surprising ] 3308
+[story ][that ] -> [story that ] 3309
+[s][-] -> [s-] 3310
+[tre][at ] -> [treat ] 3311
+[al ][. ] -> [al . ] 3312
+[pre][dec] -> [predec] 3313
+[predec][ess] -> [predecess] 3314
+[disc][over] -> [discover] 3315
+[sci][-f] -> [sci-f] 3316
+[sci-f][i ] -> [sci-fi ] 3317
+[the film ]['s ] -> [the film 's ] 3318
+[mo][ore ] -> [moore ] 3319
+[tal][ented ] -> [talented ] 3320
+[o][l ] -> [ol ] 3321
+[prom][ise ] -> [promise ] 3322
+[. there 's ][a ] -> [. there 's a ] 3323
+[r][ow] -> [row] 3324
+[complex][ ] -> [complex ] 3325
+[effec][tive ] -> [effective ] 3326
+[m][ents ] -> [ments ] 3327
+[ti][sh ] -> [tish ] 3328
+[f][al] -> [fal] 3329
+[for][ this ] -> [for this ] 3330
+[mag][ic ] -> [magic ] 3331
+[d][ays ] -> [days ] 3332
+[engross][ing ] -> [engrossing ] 3333
+[, but ][it is ] -> [, but it is ] 3334
+[. ][while ] -> [. while ] 3335
+[e][g] -> [eg] 3336
+[definit][ely ] -> [definitely ] 3337
+[if it ][were ] -> [if it were ] 3338
+[st][age ] -> [stage ] 3339
+[gr][ound ] -> [ground ] 3340
+[-lrb- a ][-rrb- ] -> [-lrb- a -rrb- ] 3341
+[e][an ] -> [ean ] 3342
+[ ar][t ] -> [ art ] 3343
+[st][ers ] -> [sters ] 3344
+[gr][ant ] -> [grant ] 3345
+[b][og] -> [bog] 3346
+[f][are ] -> [fare ] 3347
+[bat][tle ] -> [battle ] 3348
+[brea][k] -> [break] 3349
+[,][ an ] -> [, an ] 3350
+[mos][ph] -> [mosph] 3351
+[lif][e . ] -> [life . ] 3352
+[a ][is ] -> [a is ] 3353
+[co][st] -> [cost] 3354
+[its ][own ] -> [its own ] 3355
+[ti][s] -> [tis] 3356
+[it][al ] -> [ital ] 3357
+[gre][s] -> [gres] 3358
+[ ad][ults ] -> [ adults ] 3359
+[under][stand ] -> [understand ] 3360
+[it ][does ] -> [it does ] 3361
+[sc][ore ] -> [score ] 3362
+[g][ing ] -> [ging ] 3363
+[d][om] -> [dom] 3364
+[di][men] -> [dimen] 3365
+[lo][ts of ] -> [lots of ] 3366
+[ed ][it ] -> [ed it ] 3367
+[sc][ary ] -> [scary ] 3368
+[spir][itu] -> [spiritu] 3369
+[do][g ] -> [dog ] 3370
+[t][ex] -> [tex] 3371
+[with ][his ] -> [with his ] 3372
+[v][ul] -> [vul] 3373
+[and][er] -> [ander] 3374
+[nich][ol] -> [nichol] 3375
+[os][car ] -> [oscar ] 3376
+[at][ory ] -> [atory ] 3377
+[s][light ] -> [slight ] 3378
+[w][o] -> [wo] 3379
+[conven][tional ] -> [conventional ] 3380
+[su][p] -> [sup] 3381
+[an][ and ] -> [an and ] 3382
+[we '][ve ] -> [we 've ] 3383
+[dul][l] -> [dull] 3384
+[in ][which] -> [in which] 3385
+[l][og] -> [log] 3386
+[w][ish ] -> [wish ] 3387
+[ey][e ] -> [eye ] 3388
+[big][g] -> [bigg] 3389
+[.][ an a] -> [. an a] 3390
+[eff][ect ] -> [effect ] 3391
+[mur][ph] -> [murph] 3392
+[may][be ] -> [maybe ] 3393
+[li][fe] -> [life] 3394
+[r][hy] -> [rhy] 3395
+[rhy][th] -> [rhyth] 3396
+[s][our] -> [sour] 3397
+[id][enti] -> [identi] 3398
+[cr][oss] -> [cross] 3399
+[l][er 's ] -> [ler 's ] 3400
+[medioc][re ] -> [mediocre ] 3401
+[j][ud] -> [jud] 3402
+[su][g] -> [sug] 3403
+[h][un] -> [hun] 3404
+[coun][try ] -> [country ] 3405
+[ou][ld] -> [ould] 3406
+[sl][ow] -> [slow] 3407
+[s][ound] -> [sound] 3408
+[geor][ge ] -> [george ] 3409
+[wor][se ] -> [worse ] 3410
+[myster][y ] -> [mystery ] 3411
+[bl][ue ] -> [blue ] 3412
+[in the ][end ] -> [in the end ] 3413
+[st][op] -> [stop] 3414
+[siv][ely ] -> [sively ] 3415
+[exac][tly ] -> [exactly ] 3416
+[ur][e . ] -> [ure . ] 3417
+[likely ][to ] -> [likely to ] 3418
+[fortun][ately ] -> [fortunately ] 3419
+[cl][um] -> [clum] 3420
+[ti][re] -> [tire] 3421
+[cent][ur] -> [centur] 3422
+[make ][a ] -> [make a ] 3423
+[en][e] -> [ene] 3424
+[hu][ge ] -> [huge ] 3425
+[er][\/] -> [er\/] 3426
+[ong][s ] -> [ongs ] 3427
+[capture][s the ] -> [captures the ] 3428
+[ac][t ] -> [act ] 3429
+[charm][ing ] -> [charming ] 3430
+[or ][not ] -> [or not ] 3431
+[even][ a ] -> [even a ] 3432
+[g][od] -> [god] 3433
+[r][e . ] -> [re . ] 3434
+[li][z] -> [liz] 3435
+[k][a] -> [ka] 3436
+[fi][ve ] -> [five ] 3437
+[pho][to] -> [photo] 3438
+[over][come ] -> [overcome ] 3439
+[ic][s ] -> [ics ] 3440
+[rel][ent] -> [relent] 3441
+[st][om] -> [stom] 3442
+[ed ][out ] -> [ed out ] 3443
+[9][ ] -> [9 ] 3444
+[stor][y and ] -> [story and ] 3445
+['' ][is ] -> ['' is ] 3446
+[gl][or] -> [glor] 3447
+[spectac][le ] -> [spectacle ] 3448
+[deriv][ative ] -> [derivative ] 3449
+[re][ad ] -> [read ] 3450
+[m][s. ] -> [ms. ] 3451
+[al][ism ] -> [alism ] 3452
+[ed ][to the ] -> [ed to the ] 3453
+[cele][br] -> [celebr] 3454
+[ an][g] -> [ ang] 3455
+[ri][dic] -> [ridic] 3456
+[how ][to ] -> [how to ] 3457
+[play][ing ] -> [playing ] 3458
+[betwe][en] -> [between] 3459
+['][ll ] -> ['ll ] 3460
+[might ][be ] -> [might be ] 3461
+[mon][ster ] -> [monster ] 3462
+[ely][ a ] -> [ely a ] 3463
+[comedi][es ] -> [comedies ] 3464
+[willi][ams ] -> [williams ] 3465
+[cap][tiv] -> [captiv] 3466
+[soap ][opera ] -> [soap opera ] 3467
+[hear][ted ] -> [hearted ] 3468
+[all][-] -> [all-] 3469
+[jus][tice ] -> [justice ] 3470
+[one ][that ] -> [one that ] 3471
+[ob][s] -> [obs] 3472
+[to ][get ] -> [to get ] 3473
+[good][-] -> [good-] 3474
+[se][ts ] -> [sets ] 3475
+[ser][iously ] -> [seriously ] 3476
+[lab][or] -> [labor] 3477
+[dev][ast] -> [devast] 3478
+[old-fashion][ed ] -> [old-fashioned ] 3479
+[st][ing ] -> [sting ] 3480
+[fantas][y ] -> [fantasy ] 3481
+[t][ear] -> [tear] 3482
+[ha][un] -> [haun] 3483
+[drama ][. ] -> [drama . ] 3484
+[cas][e ] -> [case ] 3485
+[k ][, ] -> [k , ] 3486
+[p][at] -> [pat] 3487
+[without ][the ] -> [without the ] 3488
+[l][in ] -> [lin ] 3489
+[portrait ][of ] -> [portrait of ] 3490
+[tw][o] -> [two] 3491
+[cultur][al ] -> [cultural ] 3492
+[fin][ds ] -> [finds ] 3493
+[f][ish] -> [fish] 3494
+[che][ap ] -> [cheap ] 3495
+[n][y ] -> [ny ] 3496
+[a ][. ] -> [a . ] 3497
+[maj][or ] -> [major ] 3498
+[br][ut] -> [brut] 3499
+[bu][te ] -> [bute ] 3500
+[j][ag] -> [jag] 3501
+[f][es] -> [fes] 3502
+[un][expected ] -> [unexpected ] 3503
+[re][g] -> [reg] 3504
+[repe][ti] -> [repeti] 3505
+[c][au] -> [cau] 3506
+[qu][is] -> [quis] 3507
+[c][ent ] -> [cent ] 3508
+[cine][ma] -> [cinema] 3509
+[jec][ts ] -> [jects ] 3510
+[sol][utely ] -> [solutely ] 3511
+[mur][der ] -> [murder ] 3512
+[or][ a ] -> [or a ] 3513
+[re][-] -> [re-] 3514
+[comm][erc] -> [commerc] 3515
+[. the ][only ] -> [. the only ] 3516
+[de][pic] -> [depic] 3517
+[sligh][tly ] -> [slightly ] 3518
+[at ][least ] -> [at least ] 3519
+[ar][ound ] -> [around ] 3520
+[bo][di] -> [bodi] 3521
+[cred][it ] -> [credit ] 3522
+[ arti][st ] -> [ artist ] 3523
+[it 's ][not ] -> [it 's not ] 3524
+[frequ][ently ] -> [frequently ] 3525
+[5][ ] -> [5 ] 3526
+[, ][so ] -> [, so ] 3527
+[riv][et] -> [rivet] 3528
+[, ][s] -> [, s] 3529
+[un][ch ] -> [unch ] 3530
+[hol][d ] -> [hold ] 3531
+[im][pac] -> [impac] 3532
+[fol][ds ] -> [folds ] 3533
+[we '][re ] -> [we 're ] 3534
+[mess][ag] -> [messag] 3535
+[sol][ond] -> [solond] 3536
+[ultim][ate ] -> [ultimate ] 3537
+[would ][have ] -> [would have ] 3538
+[sk][et] -> [sket] 3539
+[si][an ] -> [sian ] 3540
+[prec][i] -> [preci] 3541
+[treat][ment ] -> [treatment ] 3542
+[r][on] -> [ron] 3543
+[this ][film ] -> [this film ] 3544
+[ch][rist] -> [christ] 3545
+[, the film ][is ] -> [, the film is ] 3546
+[gh][ ] -> [gh ] 3547
+[to ][do ] -> [to do ] 3548
+[way ][. ] -> [way . ] 3549
+[. the ][most ] -> [. the most ] 3550
+[f][at ] -> [fat ] 3551
+[pathe][tic ] -> [pathetic ] 3552
+[recomm][end ] -> [recommend ] 3553
+[or][ity ] -> [ority ] 3554
+[che][es] -> [chees] 3555
+[ende][ar] -> [endear] 3556
+[colle][ge ] -> [college ] 3557
+[.][ all ] -> [. all ] 3558
+[sti][t] -> [stit] 3559
+[li][st ] -> [list ] 3560
+[c][our] -> [cour] 3561
+[oun][ding ] -> [ounding ] 3562
+[pre][mis] -> [premis] 3563
+[consider][able ] -> [considerable ] 3564
+[ro][om ] -> [room ] 3565
+[any][thing ] -> [anything ] 3566
+[por][t ] -> [port ] 3567
+[story ][, ] -> [story , ] 3568
+[r][og] -> [rog] 3569
+[sm][oo] -> [smoo] 3570
+[stand][ard ] -> [standard ] 3571
+[ti][ally ] -> [tially ] 3572
+[ster][e] -> [stere] 3573
+[complet][e ] -> [complete ] 3574
+[for][ that ] -> [for that ] 3575
+[v][an] -> [van] 3576
+[ the ][movie ] -> [ the movie ] 3577
+[, ][you ] -> [, you ] 3578
+[b][b] -> [bb] 3579
+[sk][ill] -> [skill] 3580
+[tar][get ] -> [target ] 3581
+[i ][have ] -> [i have ] 3582
+[col][d ] -> [cold ] 3583
+[under][ the ] -> [under the ] 3584
+[to][p] -> [top] 3585
+[even ][more ] -> [even more ] 3586
+[cre][ate ] -> [create ] 3587
+[r][us] -> [rus] 3588
+[wor][d ] -> [word ] 3589
+[am][us] -> [amus] 3590
+[has ][all the ] -> [has all the ] 3591
+[tri][es to ] -> [tries to ] 3592
+[b][la] -> [bla] 3593
+[scen][e ] -> [scene ] 3594
+[portra][y] -> [portray] 3595
+[ ambi][tious ] -> [ ambitious ] 3596
+[exc][ept ] -> [except ] 3597
+[id][ and ] -> [id and ] 3598
+[fig][ure ] -> [figure ] 3599
+[int][ell] -> [intell] 3600
+[story ][. ] -> [story . ] 3601
+[d][ri] -> [dri] 3602
+[ th][ough ] -> [ though ] 3603
+[does ][not ] -> [does not ] 3604
+[devo][id ] -> [devoid ] 3605
+[gener][ic ] -> [generic ] 3606
+[plays ][like a ] -> [plays like a ] 3607
+[pain][fully ] -> [painfully ] 3608
+[midd][le-] -> [middle-] 3609
+[la][y] -> [lay] 3610
+[ and][ a] -> [ and a] 3611
+[ing ][for ] -> [ing for ] 3612
+[ ab][sorb] -> [ absorb] 3613
+[ec][k ] -> [eck ] 3614
+[re][fer] -> [refer] 3615
+[for the ][most ] -> [for the most ] 3616
+[sh][are ] -> [share ] 3617
+[ed ][that ] -> [ed that ] 3618
+[ch][all] -> [chall] 3619
+[moder][n] -> [modern] 3620
+[em][bl] -> [embl] 3621
+[ ab][sur] -> [ absur] 3622
+[is ][as ] -> [is as ] 3623
+[each ][other ] -> [each other ] 3624
+[pic][tures ] -> [pictures ] 3625
+[tran][sc] -> [transc] 3626
+[or][i] -> [ori] 3627
+[al][so] -> [also] 3628
+[st][am] -> [stam] 3629
+[int][e] -> [inte] 3630
+[li][ber] -> [liber] 3631
+[makes ][a ] -> [makes a ] 3632
+[ amoun][t of ] -> [ amount of ] 3633
+[comp][lish] -> [complish] 3634
+[tow][ard ] -> [toward ] 3635
+[fran][ch] -> [franch] 3636
+[l][s ] -> [ls ] 3637
+[ten][sion ] -> [tension ] 3638
+[m][ou] -> [mou] 3639
+[h][it ] -> [hit ] 3640
+[at][ten] -> [atten] 3641
+[in][o ] -> [ino ] 3642
+[con][tra] -> [contra] 3643
+[trag][ic ] -> [tragic ] 3644
+[mor][al ] -> [moral ] 3645
+[conv][ic] -> [convic] 3646
+[know][l] -> [knowl] 3647
+[di][ver] -> [diver] 3648
+[pi][an] -> [pian] 3649
+[s ][, and ] -> [s , and ] 3650
+[tru][th] -> [truth] 3651
+[a][ks ] -> [aks ] 3652
+[intim][ate ] -> [intimate ] 3653
+[mo][tion ] -> [motion ] 3654
+[mar][ks ] -> [marks ] 3655
+[ti][tu] -> [titu] 3656
+[extrem][ely ] -> [extremely ] 3657
+[run][s ] -> [runs ] 3658
+[story ][of ] -> [story of ] 3659
+[ke ][. ] -> [ke . ] 3660
+[p][on] -> [pon] 3661
+[me][an ] -> [mean ] 3662
+[. ][not ] -> [. not ] 3663
+[fill][ed with ] -> [filled with ] 3664
+[invol][v] -> [involv] 3665
+[ha][ving ] -> [having ] 3666
+[or ][, ] -> [or , ] 3667
+[tag][on] -> [tagon] 3668
+[genu][in] -> [genuin] 3669
+[genuin][ely ] -> [genuinely ] 3670
+[wat][er ] -> [water ] 3671
+[da][zz] -> [dazz] 3672
+[lan][gu] -> [langu] 3673
+[usu][ally ] -> [usually ] 3674
+[fra][me ] -> [frame ] 3675
+[fiel][d ] -> [field ] 3676
+[craf][t] -> [craft] 3677
+[love ][and ] -> [love and ] 3678
+[fun][c] -> [func] 3679
+[comp][an] -> [compan] 3680
+[. ][its ] -> [. its ] 3681
+[sh][e] -> [she] 3682
+[coun][ter] -> [counter] 3683
+[able ][to ] -> [able to ] 3684
+[od][d] -> [odd] 3685
+[con][nec] -> [connec] 3686
+[pu][ts ] -> [puts ] 3687
+[iz][ed ] -> [ized ] 3688
+[fes][tiv] -> [festiv] 3689
+[ent ][. ] -> [ent . ] 3690
+[gi][f] -> [gif] 3691
+[s][ound ] -> [sound ] 3692
+[make ][you ] -> [make you ] 3693
+[ter][rible ] -> [terrible ] 3694
+[t][fully ] -> [tfully ] 3695
+[o][qu] -> [oqu] 3696
+[ act][or ] -> [ actor ] 3697
+[ate ][, ] -> [ate , ] 3698
+[st][s ] -> [sts ] 3699
+[pa][ir ] -> [pair ] 3700
+[pur][p] -> [purp] 3701
+[purp][ose ] -> [purpose ] 3702
+[some][how ] -> [somehow ] 3703
+[c][all ] -> [call ] 3704
+[mind][less ] -> [mindless ] 3705
+[r][ow ] -> [row ] 3706
+[po][p ] -> [pop ] 3707
+[f][all ] -> [fall ] 3708
+[ anim][ated ] -> [ animated ] 3709
+[ch][emi] -> [chemi] 3710
+[betwe][en the ] -> [between the ] 3711
+[p][ear] -> [pear] 3712
+[than][ the ] -> [than the ] 3713
+[event][ually ] -> [eventually ] 3714
+[an][s ] -> [ans ] 3715
+[u][s to ] -> [us to ] 3716
+[manag][es ] -> [manages ] 3717
+[an][k] -> [ank] 3718
+[equ][ally ] -> [equally ] 3719
+[sym][path] -> [sympath] 3720
+[of][ten] -> [often] 3721
+[y ][to ] -> [y to ] 3722
+[unsett][ling ] -> [unsettling ] 3723
+[sh][ock] -> [shock] 3724
+[au][gh] -> [augh] 3725
+[le][t ] -> [let ] 3726
+[br][own ] -> [brown ] 3727
+[great][est ] -> [greatest ] 3728
+[tou][ching ] -> [touching ] 3729
+[poin][t of ] -> [point of ] 3730
+[dimen][sion] -> [dimension] 3731
+[self-][con] -> [self-con] 3732
+[in][ and ] -> [in and ] 3733
+[it ][to ] -> [it to ] 3734
+[ence ][of ] -> [ence of ] 3735
+[ste][p ] -> [step ] 3736
+[where ][the ] -> [where the ] 3737
+[ed ][up ] -> [ed up ] 3738
+[. a ][film ] -> [. a film ] 3739
+[gett][ing ] -> [getting ] 3740
+[wed][ding ] -> [wedding ] 3741
+[m][ul] -> [mul] 3742
+[might ][have ] -> [might have ] 3743
+[i '][d ] -> [i 'd ] 3744
+[od][er] -> [oder] 3745
+[oder][ber] -> [oderber] 3746
+[ce ][of ] -> [ce of ] 3747
+[main][tain] -> [maintain] 3748
+[ous ][, ] -> [ous , ] 3749
+[plent][y of ] -> [plenty of ] 3750
+[real][istic ] -> [realistic ] 3751
+[off][er] -> [offer] 3752
+[s][e , ] -> [se , ] 3753
+[t][ell ] -> [tell ] 3754
+[lov][ely ] -> [lovely ] 3755
+[l][er ] -> [ler ] 3756
+[dumb][ ] -> [dumb ] 3757
+[--][ that ] -> [-- that ] 3758
+[as ][it ] -> [as it ] 3759
+[del][ight ] -> [delight ] 3760
+[sur][vi] -> [survi] 3761
+[h][ack] -> [hack] 3762
+[od][dly ] -> [oddly ] 3763
+[hous][e ] -> [house ] 3764
+[j][am] -> [jam] 3765
+[stere][ot] -> [stereot] 3766
+[stereot][yp] -> [stereotyp] 3767
+[subject ][matter ] -> [subject matter ] 3768
+[sc][rat] -> [scrat] 3769
+[movi][e-] -> [movie-] 3770
+[en ][. ] -> [en . ] 3771
+[ ac][tion] -> [ action] 3772
+[un][ti] -> [unti] 3773
+[on][s ] -> [ons ] 3774
+[any][one ] -> [anyone ] 3775
+[your][self ] -> [yourself ] 3776
+[character][iz] -> [characteriz] 3777
+[heav][y ] -> [heavy ] 3778
+[be][ha] -> [beha] 3779
+[so][-] -> [so-] 3780
+[sh][e 's ] -> [she 's ] 3781
+[ag][ain] -> [again] 3782
+[es][sion ] -> [ession ] 3783
+[better][ than ] -> [better than ] 3784
+[a][im] -> [aim] 3785
+[contempor][ary ] -> [contemporary ] 3786
+[com][par] -> [compar] 3787
+[c][le] -> [cle] 3788
+[dep][end] -> [depend] 3789
+[wan][ts ] -> [wants ] 3790
+[sl][opp] -> [slopp] 3791
+[bo][tt] -> [bott] 3792
+[its ][title ] -> [its title ] 3793
+[s][app] -> [sapp] 3794
+[. the movie ]['s ] -> [. the movie 's ] 3795
+[ation][s . ] -> [ations . ] 3796
+[superf][ic] -> [superfic] 3797
+[in][ an ] -> [in an ] 3798
+[thing][ about ] -> [thing about ] 3799
+[ness ][. ] -> [ness . ] 3800
+[ti][f] -> [tif] 3801
+[le][ad ] -> [lead ] 3802
+[dull ][, ] -> [dull , ] 3803
+[sh][allow ] -> [shallow ] 3804
+[p][il] -> [pil] 3805
+[al][ready ] -> [already ] 3806
+[feels ][like a ] -> [feels like a ] 3807
+[su][m ] -> [sum ] 3808
+[com][ ] -> [com ] 3809
+[should ][have ] -> [should have ] 3810
+[ att][emp] -> [ attemp] 3811
+[contri][ved ] -> [contrived ] 3812
+[mat][eur] -> [mateur] 3813
+[''][ and ] -> ['' and ] 3814
+[an][-] -> [an-] 3815
+[des][cri] -> [descri] 3816
+[writ][er\/] -> [writer\/] 3817
+[pe][ter ] -> [peter ] 3818
+[un][deni] -> [undeni] 3819
+[ligh][t] -> [light] 3820
+[extre][me ] -> [extreme ] 3821
+[make ][it ] -> [make it ] 3822
+[out ][of the ] -> [out of the ] 3823
+[al ][of ] -> [al of ] 3824
+[ing][ and] -> [ing and] 3825
+[it ][makes ] -> [it makes ] 3826
+[photo][graph] -> [photograph] 3827
+[par][k] -> [park] 3828
+[c][ute ] -> [cute ] 3829
+[docum][ent ] -> [document ] 3830
+[bel][ly ] -> [belly ] 3831
+[de ][n] -> [de n] 3832
+[de n][ir] -> [de nir] 3833
+[ha][p] -> [hap] 3834
+[typ][ical ] -> [typical ] 3835
+[for][ an ] -> [for an ] 3836
+[chall][eng] -> [challeng] 3837
+[poin][ts ] -> [points ] 3838
+[-lrb-][ the ] -> [-lrb- the ] 3839
+[mi][x of ] -> [mix of ] 3840
+[when ][it ] -> [when it ] 3841
+[d][uc] -> [duc] 3842
+[sp][id] -> [spid] 3843
+[happ][y ] -> [happy ] 3844
+[quiet][ly ] -> [quietly ] 3845
+[performances ][are ] -> [performances are ] 3846
+[forc][ed ] -> [forced ] 3847
+[... ][is ] -> [... is ] 3848
+[ridic][ul] -> [ridicul] 3849
+[rec][or] -> [recor] 3850
+[inte][gr] -> [integr] 3851
+[d][os] -> [dos] 3852
+[, ][no ] -> [, no ] 3853
+[much][ as ] -> [much as ] 3854
+[8][ ] -> [8 ] 3855
+[issu][es ] -> [issues ] 3856
+[reve][al] -> [reveal] 3857
+[excit][ement ] -> [excitement ] 3858
+[fic][tion ] -> [fiction ] 3859
+[ir][re] -> [irre] 3860
+[h][off] -> [hoff] 3861
+[ver][age ] -> [verage ] 3862
+[vi][br] -> [vibr] 3863
+[ness ][of ] -> [ness of ] 3864
+[ing ][its ] -> [ing its ] 3865
+[fl][o] -> [flo] 3866
+[ach][iev] -> [achiev] 3867
+[sp][oo] -> [spoo] 3868
+[worth][y ] -> [worthy ] 3869
+[il][s ] -> [ils ] 3870
+[bri][d] -> [brid] 3871
+[it][self] -> [itself] 3872
+[lik][able ] -> [likable ] 3873
+[sentim][ent] -> [sentiment] 3874
+[ity ][of ] -> [ity of ] 3875
+[ally][ a ] -> [ally a ] 3876
+[per][son ] -> [person ] 3877
+[me][as] -> [meas] 3878
+[pr][ac] -> [prac] 3879
+[us][es ] -> [uses ] 3880
+[look][ at the ] -> [look at the ] 3881
+[th][in ] -> [thin ] 3882
+[sen][su] -> [sensu] 3883
+[st][ep] -> [step] 3884
+[d][riv] -> [driv] 3885
+[pop][cor] -> [popcor] 3886
+[bit][ter] -> [bitter] 3887
+[in its ][own ] -> [in its own ] 3888
+[situ][ation ] -> [situation ] 3889
+[con][fid] -> [confid] 3890
+[resp][on] -> [respon] 3891
+[you ][to ] -> [you to ] 3892
+[incredi][bly ] -> [incredibly ] 3893
+[children ]['s ] -> [children 's ] 3894
+[in][clud] -> [includ] 3895
+[?][ the ] -> [? the ] 3896
+[concer][n] -> [concern] 3897
+[ab][ove ] -> [above ] 3898
+[sla][ps] -> [slaps] 3899
+[f][o] -> [fo] 3900
+[pow][ers ] -> [powers ] 3901
+[pro][tagon] -> [protagon] 3902
+[see][ing ] -> [seeing ] 3903
+[bu][sin] -> [busin] 3904
+[conc][ep] -> [concep] 3905
+[work ][of ] -> [work of ] 3906
+[way ][, ] -> [way , ] 3907
+[cr][uc] -> [cruc] 3908
+[ima][x ] -> [imax ] 3909
+[ful][ly] -> [fully] 3910
+[bro][om] -> [broom] 3911
+[. ][with ] -> [. with ] 3912
+[fir][st-] -> [first-] 3913
+[want ][to ] -> [want to ] 3914
+[remain][s ] -> [remains ] 3915
+[man][ner] -> [manner] 3916
+[ph][on] -> [phon] 3917
+[. ][` ] -> [. ` ] 3918
+[quick][ly ] -> [quickly ] 3919
+[s and ][the ] -> [s and the ] 3920
+[care ][about ] -> [care about ] 3921
+[e][z] -> [ez] 3922
+[medit][ation ] -> [meditation ] 3923
+[. th][ose ] -> [. those ] 3924
+[ey][ed ] -> [eyed ] 3925
+[reve][als ] -> [reveals ] 3926
+[ac][ros] -> [acros] 3927
+[y][ar] -> [yar] 3928
+[on ][, ] -> [on , ] 3929
+[mem][b] -> [memb] 3930
+[tu][red ] -> [tured ] 3931
+[way ][that ] -> [way that ] 3932
+[hear][tw] -> [heartw] 3933
+[heartw][ar] -> [heartwar] 3934
+[ry][an ] -> [ryan ] 3935
+[ing][u] -> [ingu] 3936
+[f][ast ] -> [fast ] 3937
+[big ][screen ] -> [big screen ] 3938
+[th][ir] -> [thir] 3939
+[ and ][un] -> [ and un] 3940
+[chemi][stry ] -> [chemistry ] 3941
+[m][es] -> [mes] 3942
+[ti][-] -> [ti-] 3943
+[on][ly a ] -> [only a ] 3944
+[ong][ the ] -> [ong the ] 3945
+[of the year][ ] -> [of the year ] 3946
+[il][y] -> [ily] 3947
+[ a ][movie ] -> [ a movie ] 3948
+[la][wr] -> [lawr] 3949
+[lawr][ence ] -> [lawrence ] 3950
+[ur][ ] -> [ur ] 3951
+[brea][k ] -> [break ] 3952
+[there ][are ] -> [there are ] 3953
+[is ][too ] -> [is too ] 3954
+[es ][in ] -> [es in ] 3955
+[un][folds ] -> [unfolds ] 3956
+[p][ace ] -> [pace ] 3957
+[ri][gh] -> [righ] 3958
+[j][un] -> [jun] 3959
+[warm][th ] -> [warmth ] 3960
+[tim][es , ] -> [times , ] 3961
+[we][igh] -> [weigh] 3962
+[non][-] -> [non-] 3963
+[leave ][you ] -> [leave you ] 3964
+[sti][r] -> [stir] 3965
+[sex][ual ] -> [sexual ] 3966
+[ ap][par] -> [ appar] 3967
+[d][ur] -> [dur] 3968
+[delic][ate ] -> [delicate ] 3969
+[what][ever ] -> [whatever ] 3970
+[is][ion ] -> [ision ] 3971
+[film][s . ] -> [films . ] 3972
+[sh][op ] -> [shop ] 3973
+[hour][s ] -> [hours ] 3974
+[vil][la] -> [villa] 3975
+[but ][the ] -> [but the ] 3976
+[em][bar] -> [embar] 3977
+[g][ame ] -> [game ] 3978
+[on][-] -> [on-] 3979
+[will ][probably ] -> [will probably ] 3980
+[ th][ink] -> [ think] 3981
+[ut][ed ] -> [uted ] 3982
+[t][elev] -> [telev] 3983
+[in ][your ] -> [in your ] 3984
+[,][ are ] -> [, are ] 3985
+[strang][ely ] -> [strangely ] 3986
+[sty][lish ] -> [stylish ] 3987
+[humor ][. ] -> [humor . ] 3988
+[into][ an ] -> [into an ] 3989
+[because ][it ] -> [because it ] 3990
+[sim][il] -> [simil] 3991
+[ma][ch] -> [mach] 3992
+[jap][an] -> [japan] 3993
+[h][ell ] -> [hell ] 3994
+[x][ic] -> [xic] 3995
+[clear][ly ] -> [clearly ] 3996
+[has ][n't ] -> [has n't ] 3997
+[bl][ade ] -> [blade ] 3998
+[h][op ] -> [hop ] 3999
+[sc][oo] -> [scoo] 4000
+[re][fus] -> [refus] 4001
+[promis][ing ] -> [promising ] 4002
+[possi][bly ] -> [possibly ] 4003
+[a][ that ] -> [a that ] 4004
+[lacks ][the ] -> [lacks the ] 4005
+[we ][have ] -> [we have ] 4006
+[ju][li] -> [juli] 4007
+[d][ream ] -> [dream ] 4008
+[in][sk] -> [insk] 4009
+[dec][ep] -> [decep] 4010
+[im][it] -> [imit] 4011
+[. a ][movie ] -> [. a movie ] 4012
+[ed][ at ] -> [ed at ] 4013
+[o ][. ] -> [o . ] 4014
+[that ][it 's ] -> [that it 's ] 4015
+[con][struc] -> [construc] 4016
+[sh][ould] -> [should] 4017
+[f][ing] -> [fing] 4018
+[films ][that ] -> [films that ] 4019
+[it][al] -> [ital] 4020
+[half][-] -> [half-] 4021
+[conclu][sion ] -> [conclusion ] 4022
+[m][e . ] -> [me . ] 4023
+[ appe][al ] -> [ appeal ] 4024
+[l][ad] -> [lad] 4025
+[ that ][it ] -> [ that it ] 4026
+[is ][just ] -> [is just ] 4027
+[mat][ter] -> [matter] 4028
+[ch][an ] -> [chan ] 4029
+[sum][m] -> [summ] 4030
+[s][oderber] -> [soderber] 4031
+[and ][un] -> [and un] 4032
+[li][en] -> [lien] 4033
+[than][ a ] -> [than a ] 4034
+[has ][made ] -> [has made ] 4035
+[pl][ain ] -> [plain ] 4036
+[ch][an] -> [chan] 4037
+[im][medi] -> [immedi] 4038
+[t][ably ] -> [tably ] 4039
+[w][k] -> [wk] 4040
+[er][o] -> [ero] 4041
+[it is ][n't ] -> [it is n't ] 4042
+[we][ek ] -> [week ] 4043
+[of-][the-] -> [of-the-] 4044
+[y][cl] -> [ycl] 4045
+[ith][er] -> [ither] 4046
+[po][k] -> [pok] 4047
+[ps][es ] -> [pses ] 4048
+[mu][dd] -> [mudd] 4049
+[inc][o] -> [inco] 4050
+[w][ful ] -> [wful ] 4051
+[w][ann] -> [wann] 4052
+[poor][ly ] -> [poorly ] 4053
+[b][ore ] -> [bore ] 4054
+[wor][ds ] -> [words ] 4055
+[at][ing and ] -> [ating and ] 4056
+[f][ell] -> [fell] 4057
+[. ][just ] -> [. just ] 4058
+[ness ][and ] -> [ness and ] 4059
+[s][at] -> [sat] 4060
+[ing][en] -> [ingen] 4061
+[con][struct] -> [construct] 4062
+[expec][ta] -> [expecta] 4063
+[fun][ , ] -> [fun , ] 4064
+[poe][try ] -> [poetry ] 4065
+[hear][t . ] -> [heart . ] 4066
+[wh][im] -> [whim] 4067
+[tt][er ] -> [tter ] 4068
+[c][ut] -> [cut] 4069
+[fl][at] -> [flat] 4070
+[performances ][by ] -> [performances by ] 4071
+[al][y] -> [aly] 4072
+[ th][re] -> [ thre] 4073
+[year][ ] -> [year ] 4074
+[out ][to be ] -> [out to be ] 4075
+[with][ this ] -> [with this ] 4076
+[for][ those ] -> [for those ] 4077
+[go][ers ] -> [goers ] 4078
+[bo][y] -> [boy] 4079
+[insigh][tful ] -> [insightful ] 4080
+[heav][en ] -> [heaven ] 4081
+[ing][ them ] -> [ing them ] 4082
+[and ][most ] -> [and most ] 4083
+[or][m] -> [orm] 4084
+[master][piece ] -> [masterpiece ] 4085
+['' ][is a ] -> ['' is a ] 4086
+[film ][with a ] -> [film with a ] 4087
+[behin][d the ] -> [behind the ] 4088
+[call][ed ] -> [called ] 4089
+['][ the ] -> [' the ] 4090
+[sh][oc] -> [shoc] 4091
+[nation][al ] -> [national ] 4092
+[p][se ] -> [pse ] 4093
+[j][a] -> [ja] 4094
+[d][ol] -> [dol] 4095
